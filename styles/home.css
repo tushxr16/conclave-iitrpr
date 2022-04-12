@@ -1,6 +1,6 @@
 /* NAVBAR */
-.navbar-grad{
-  background: linear-gradient(90deg, #ECF3FE 0%, #D1E2F0 100%);
+.navbar-grad {
+  background: linear-gradient(90deg, #ecf3fe 0%, #d1e2f0 100%);
 }
 @media screen and (max-width: 480px) {
   .nav-brand-layout {
@@ -29,7 +29,6 @@
     border-radius: 30px;
   }
 }
-
 
 .gradient-box {
   background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
@@ -106,7 +105,7 @@
   line-height: 2rem;
 }
 
-.dates-layout{
+.dates-layout {
   background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
   border-radius: 2rem;
   justify-content: center;
@@ -119,7 +118,28 @@
   border-radius: 30px;
 }
 
-.prelude-content{
+.prelude-content {
   font-size: 1rem;
   padding-top: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .agendaBlock {
+    height: 100px;
+    width: 90vw;
+    color: white;
+  }
+  .agenda-img-resp{
+    width: 90vw;
+  }
+}
+@media screen and (min-width: 768px) {
+  .agendaBlock {
+    height: 6rem;
+    width: 40vw;
+    color: white;
+  }
+  .agenda-img-resp{
+    width: 50vw;
+  }
 }

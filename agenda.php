@@ -39,25 +39,26 @@
 
     <div class="container-fluid">
         <div class="row justify-content-evenly my-5">
-            <div class="col-md-5 w3-animate-left">
+            <div class="col-md-5 w3-animate-left justify-content-evenly">
                 <div class="heading">
                     REVIVAL OF CLUTURE AMONG IITIANS (PRE-COVID IIT LIFE)
                 </div>
-                <p class="my-3">
+                <p class="my-5" style="text-align: justify;">
                     It is quite evident that after the outbreak of the COVID-19 virus, it is challenging to return to the world as it was before. Therefore, putting efforts in the right direction to revive the lost offline experiences is crucial. Even though the virtual world has its advantages, we can't deny the importance of classroom teaching, peer interactions, and senior-junior involvement. This lack of hands-on experience has deteriorated the social aspect of our lives.
                 </p>
+                <img src="./images/agenda-1.png" class="agenda-img-resp" style="height:50vh; object-fit: contain"></img>
             </div>
             <div class="col-md-5 w3-animate-right" style="display: flex; flex-direction: column; align-items: center;">
                 <div class="sub-heading">
                     We envision discussing the following aspects
                 </div>
-                <div class="btn btn-light my-3" style="height: 100px; width: 30vw">
+                <div class="btn my-3 agendaBlock" style="background: #00A8C6; color: white; display: flex; align-items: center;">
                     What measures can be taken to encourage more and more students to be involved in cultural activities?
                 </div>
-                <div class="btn btn-info my-3" style="height: 100px; width: 30vw">
+                <div class="btn my-3 agendaBlock" style="background: #8F77B4; color: white; display: flex; align-items: center;">
                     What components of our current organizations (societies and clubs) need to change considering this online to offline transition again?
                 </div>
-                <div class="btn btn-dark my-3" style="height: 100px; width: 30vw">
+                <div class="btn my-3 agendaBlock" style="background: #757284; color: white; display: flex; align-items: center;">
                     In what ways can we restore the gap between specific batches owing to the pandemic?
                 </div>
             </div>

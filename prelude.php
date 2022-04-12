@@ -49,7 +49,7 @@ include("footer.php");
             <div class="heading">
                 PRELUDE
             </div>
-            <div class="prelude-content">
+            <div class="prelude-content" style="text-align: justify;">
                 The name of IITs is synonymous with excellence and innovation. The exchange of ideas and knowledge here, among the keen to learn individuals and the experienced ones like - postgraduates and professors, blossoms into solutions that lead to the betterment of the society as a whole.
                 <br><br>The leadership summit aims to shed light on the challenges students face due to the rapidly changing socio-educational frameworks and put forward resolutions that would help the students excel in the face of this colossal paradigm shift. By engaging in discussion and brainstorming reforms, we can keep up with the trends and lead the other institutes to do the same.
                 <br><br>As student leaders, we aim to formulate solutions that can be implemented across all institutions with the help of our ministry since it is our duty, as one of the premier institutes of the nation, to benefit every individual that faces the same challenge.
