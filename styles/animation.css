@@ -1009,7 +1009,7 @@ a {
 }
 .w3-animate-bottom {
   position: relative;
-  animation: animatebottom 0.4s;
+  animation: animatebottom 1.5s;
 }
 @keyframes animatebottom {
   from {
