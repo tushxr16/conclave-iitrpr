@@ -1,0 +1,125 @@
+/* NAVBAR */
+.navbar-grad{
+  background: linear-gradient(90deg, #ECF3FE 0%, #D1E2F0 100%);
+}
+@media screen and (max-width: 480px) {
+  .nav-brand-layout {
+    background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.6rem 2rem;
+    color: white !important;
+    font-size: small;
+    font-weight: 500;
+    border-radius: 30px;
+  }
+}
+@media screen and (min-width: 480px) {
+  .nav-brand-layout {
+    background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.6rem 2.4rem;
+    color: white !important;
+    font-weight: 500;
+    border-radius: 30px;
+  }
+}
+
+
+.gradient-box {
+  background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
+  border-radius: 20px;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  text-decoration: none;
+  justify-content: center;
+  color: white !important;
+}
+
+.gradient-box-outline {
+  border: solid 1px #5b68df;
+  border-radius: 20px;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  text-decoration: none;
+  justify-content: center;
+  color: black !important;
+}
+
+/* BODY */
+
+@media screen and (max-width: 768px) {
+  .img-resp {
+    display: flex;
+    width: 90vw;
+    height: 50vh;
+    object-fit: contain;
+  }
+}
+@media screen and (min-width: 768px) {
+  .img-resp {
+    display: flex;
+    width: 40vw;
+    height: 100vh;
+    object-fit: contain;
+  }
+}
+
+.background-img {
+  background: url("../images/bg.png");
+  height: 90%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.stars-bg {
+  background: url("../images/stars-below.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cent {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  justify-items: start;
+}
+
+.heading {
+  font-size: 3rem;
+  line-height: 3rem;
+  font-weight: 900;
+}
+
+.sub-heading {
+  font-size: 2rem;
+  padding-top: 2rem;
+  line-height: 2rem;
+}
+
+.dates-layout{
+  background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
+  border-radius: 2rem;
+  justify-content: center;
+  margin-top: 3rem;
+  align-items: center;
+  padding: 0.6rem 2.4rem;
+  color: white !important;
+  font-weight: 500;
+  font-size: larger;
+  border-radius: 30px;
+}
+
+.prelude-content{
+  font-size: 1rem;
+  padding-top: 1rem;
+}
