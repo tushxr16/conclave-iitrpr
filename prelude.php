@@ -12,7 +12,7 @@
 </head>
 
 <body class="background-img">
-    <nav class="navbar navbar-expand-lg navbar-light navbar-grad bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <a class="nav-brand-layout" href="./index.php">Leadership Summit 2022</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,9 +43,8 @@ include("footer.php");
 <div class="container-fluid">
     <div class="row justify-content-evenly">
         <div class="col-md-5 w3-animate-left">
-            <img src="./images/prelude-1.png" class="img-resp"></img>
         </div>
-        <div class="col-md-5 cent w3-animate-right">
+        <div class="col-md-6 cent w3-animate-right">
             <div class="heading">
                 PRELUDE
             </div>

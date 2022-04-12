@@ -60,6 +60,7 @@
     object-fit: contain;
   }
 }
+
 @media screen and (min-width: 768px) {
   .img-resp {
     display: flex;
@@ -70,16 +71,15 @@
 }
 
 .background-img {
-  background: url("../images/bg.png");
-  height: 90%;
+  background: url("../images/home-bg.png");
   background-position: center;
+  height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .stars-bg {
   background: url("../images/stars-below.png");
-  height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -101,7 +101,6 @@
 
 .sub-heading {
   font-size: 2rem;
-  padding-top: 2rem;
   line-height: 2rem;
 }
 
@@ -123,23 +122,39 @@
   padding-top: 1rem;
 }
 
+.agenda-layout {
+  background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
+  max-width: fit-content;
+  padding: 1rem 3rem;
+  color: white !important;
+  font-weight: 500;
+  font-size: 1rem;
+  margin-right: 3rem;
+  border-radius: 2rem;
+}
+
 @media screen and (max-width: 768px) {
   .agendaBlock {
-    height: 100px;
+    height: 12rem;
     width: 90vw;
     color: white;
+    border-radius: 1rem;
+    padding: 2rem;
   }
-  .agenda-img-resp{
+  .agenda-img-resp {
     width: 90vw;
   }
 }
 @media screen and (min-width: 768px) {
   .agendaBlock {
-    height: 6rem;
+    height: 10rem;
+    font-size: 1.3rem;
     width: 40vw;
     color: white;
+    border-radius: 1rem;
+    padding: 2rem;
   }
-  .agenda-img-resp{
+  .agenda-img-resp {
     width: 50vw;
   }
 }

@@ -12,7 +12,7 @@
 </head>
 
 <body class="background-img">
-    <nav class="navbar navbar-expand-lg navbar-light navbar-grad bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <a class="nav-brand-layout" href="./index.php">Leadership Summit 2022</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,25 +37,22 @@
         </div>
     </nav>
 
-<div class="container-fluid my-5">
-    <div class="row justify-content-evenly stars-bg">
-        <div class="col-md-5 cent w3-animate-left">
-            <div class="heading">
-                Parley, Pioneer And Prosper
+    <div class="container-fluid">
+        <div class="row justify-content-evenly my-5">
+            <div class="col-md-5 cent w3-animate-right"></div>
+            <div class="col-md-5 cent w3-animate-left">
+                <div class="heading my-3">
+                    Parley, Pioneer And Prosper
+                </div>
+                <div class="sub-heading my-3">
+                    Leadership Conclave 2022: A step towards building a forum to delimitate the Inter-IIT boundaries
+                </div>
+                <div class="dates-layout">
+                    DATES: 13-15 May '22
+                </div>
             </div>
-            <div class="sub-heading">
-                Leadership Conclave 2022: A step towards building a forum to delimitate the Inter-IIT boundaries
-            </div>
-            <div class="dates-layout">
-                DATES: 13-15 May '22
-            </div>
-        </div>
-        <div class="col-md-5 w3-animate-right">
-            <img src="./images/meeting.png" class="img-resp"></img>
         </div>
     </div>
-</div>
-
-<?php
-include("footer.php");
-?>
+    <?php
+    include("footer.php");
+    ?>
