@@ -27,7 +27,7 @@
                         <a class="gradient-box-outline" href="./prelude.php">Prelude</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a class="active gradient-box" aria-current="page" href="./agenda.php">Agenda</a>
+                        <a class="active gradient-box" aria-current="page" href="./agenda.php">Agendas</a>
                     </li>
                     <li class="nav-item my-3">
                         <a class="gradient-box-outline" href="./team.php">Team</a>
@@ -70,46 +70,43 @@
         <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
             <div class="col-10 my-5">
                 <div class="justify-content-start w3-animate-left">
-                    <div class="agenda-layout">
-                        AGENDA 3
-                    </div>
-                    <div class="sub-heading my-3" style="text-overflow: hidden">
+                    <div class="heading my-3" style="text-overflow: hidden">
                         MENTORING OF UG STUDENTS BY PHD STUDENTS (ACADEMICS, RESEARCH AND EXTRA CURRICULAR)
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-evenly">
+            <div class="row justify-content-center">
                 <div class="col-md-5">
-                    <p>
+                    <p style="text-align: justify;">
                         B. Tech. students have a lot to learn, from their academics to general career advice – and a right mentor can indeed make or break their student life. A research scholar can very well guide their junior B. Tech. students, being more experienced and used to the college system.
                     </p>
                 </div>
                 <div class="col-md-5">
-                    <p>
+                    <p style="text-align: justify;">
                         One of the aims of the Leadership Summit 2022 is to further develop and strengthen this relationship between Ph. D. scholars and B. Tech students, so that the knowledge and experience of PG students can be blended with the enthusiasm and creativity of UG students to create wonders.
                     </p>
                 </div>
             </div>
             <div class="row justify-content-evenly">
                 <div class="col-md-5">
-                    <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;">
+                    <div class="my-3 sub-heading">
                         At this conclave we are seeking ways to bring these two student groups closer together:
                     </div>
                 </div>
             </div>
             <div class="row justify-content-evenly">
                 <div class="col-md-5">
-                    <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;">
+                    <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;">
                         In what further ways can this bond be strengthened that both learn something from each other. </div>
                     <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;">
                         Will creating a mandatory interdisciplinary project after the second year so as to facilitate more communication and interaction between the two groups help achieve our goals?
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;">
+                    <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;">
                         What are the improvements and suggestions in the current BTP Project system?
                     </div>
-                    <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;">
+                    <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;">
                         How will the mentorship be done by the already busy and occupied research scholars?
                     </div>
                 </div>
@@ -119,10 +116,7 @@
         <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-4.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
             <div class="col-10 my-5">
                 <div class="justify-content-start w3-animate-left">
-                    <div class="agenda-layout">
-                        AGENDA 4
-                    </div>
-                    <div class="sub-heading my-3" style="text-overflow: hidden">
+                    <div class="heading my-3" style="text-overflow: hidden">
                         PREPARE UG STUDENTS FOR PLACEMENTS IN CORE COMPANIES
                     </div>
                 </div>
@@ -160,10 +154,7 @@
         <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
             <div class="col-10 my-5">
                 <div class="justify-content-start w3-animate-left">
-                    <div class="agenda-layout">
-                        AGENDA 5
-                    </div>
-                    <div class="sub-heading my-3" style="text-overflow: hidden">
+                    <div class="heading my-3" style="text-overflow: hidden">
                         TO STOP BRAIN-DRAIN FROM THE COUNTRY (JOBS/HIGHER EDUCATION)
                     </div>
                 </div>

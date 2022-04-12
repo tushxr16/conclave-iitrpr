@@ -31,10 +31,10 @@
                         <a class="gradient-box-outline" href="./prelude.php">Prelude</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a class="active gradient-box" aria-current="page" href="./agenda.php">Agenda</a>
+                        <a class="gradient-box-outline" href="./agenda.php">Agendas</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a class="gradient-box-outline" href="./team.php">Team</a>
+                        <a class="active gradient-box" aria-current="page" href="./team.php">Team</a>
                     </li>
                 </ul>
             </div>
@@ -66,11 +66,11 @@
             <div class="col col-md-auto first-dia">
                 <div class="p-2 selecting-ad" id="t-select">Tech</div>
             </div>
-        </div>
-        <div class="row justify-content-md-center">
             <div class="col col-md-auto second-dia">
                 <div class="p-2 selecting-ad" id="mc-select">Minutes & Content</div>
             </div>
+        </div>
+        <div class="row justify-content-md-center">
             <div class="col col-md-auto second-dia">
                 <div class="p-2 selecting-ad" id="p-select">Poster Making</div>
             </div>

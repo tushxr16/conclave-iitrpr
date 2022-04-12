@@ -27,7 +27,7 @@
                         <a class="active gradient-box" aria-current="page" href="./prelude.php">Prelude</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a class="gradient-box-outline" href="./agenda.php">Agenda</a>
+                        <a class="gradient-box-outline" href="./agenda.php">Agendas</a>
                     </li>
                     <li class="nav-item my-3">
                         <a class="gradient-box-outline" href="./team.php">Team</a>
