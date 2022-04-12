@@ -87,14 +87,14 @@
                     </p>
                 </div>
             </div>
-            <div class="row justify-content-evenly">
+            <div class="row justify-content-center">
                 <div class="col-md-5">
                     <div class="my-3 sub-heading">
                         At this conclave we are seeking ways to bring these two student groups closer together:
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-evenly">
+            <div class="row justify-content-center">
                 <div class="col-md-5">
                     <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;">
                         In what further ways can this bond be strengthened that both learn something from each other. </div>
@@ -113,7 +113,7 @@
             </div>
         </div>
         <!-- AGENDA 4 -->
-        <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-4.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
+        <div class="row justify-content-center my-5" style="background: url('./images/agenda-4.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
             <div class="col-10 my-5">
                 <div class="justify-content-start w3-animate-left">
                     <div class="heading my-3" style="text-overflow: hidden">
@@ -129,7 +129,7 @@
                     </p>
                 </div>
             </div>
-            <div class="row justify-content-evenly">
+            <div class="row justify-content-center">
                 <div class="col-md-5 w3-animate-left">
                     <div class="my-3 agendaBlock" style="background: #7F62A0; color: white; display: flex; align-items: center;">
                         How can the immense potential of the curious minds be guided and motivated in the proper direction?
@@ -141,7 +141,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-evenly">
+            <div class="row justify-content-center">
                 <div class="col-md-5 w3-animate-bottom">
                     <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;">
                         What all can be negotiated with the core companies in order to attract them to hire more people with good packages?
@@ -151,7 +151,7 @@
         </div>
 
         <!-- AGENDA 5 -->
-        <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
+        <div class="row justify-content-center my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
             <div class="col-10 my-5">
                 <div class="justify-content-start w3-animate-left">
                     <div class="heading my-3" style="text-overflow: hidden">
@@ -163,7 +163,7 @@
                     <p style="text-align: justify;">Our summit needs to address and discuss the Further mentioned problems:</p>
                 </div>
             </div>
-            <div class="row justify-content-evenly">
+            <div class="row justify-content-center">
                 <div class="col-md-5 w3-animate-left">
                     <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center;">
                         Do highly competent workers send money home, invest, and share their knowledge? If not, what needs to be done to ensure that this occurs? </div>
