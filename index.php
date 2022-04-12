@@ -37,7 +37,7 @@
         </div>
     </nav>
 
-<div class="container-fluid">
+<div class="container-fluid my-5">
     <div class="row justify-content-evenly stars-bg">
         <div class="col-md-5 cent w3-animate-left">
             <div class="heading">
