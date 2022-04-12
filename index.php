@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leader Summit 2022</title>
+    <title>Leadership Summit 2022</title>
     <link href="styles/home.css" rel="stylesheet">
     <link rel="stylesheet" href="styles/animation.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">

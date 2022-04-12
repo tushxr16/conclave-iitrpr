@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leader Summit 2022</title>
+    <title>Leadership Summit 2022</title>
     <link href="styles/home.css" rel="stylesheet">
     <link rel="stylesheet" href="styles/animation.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -37,6 +37,32 @@
         </div>
     </nav>
 
-<?php
-include("footer.php");
-?>
+    <div class="container-fluid">
+        <div class="row justify-content-evenly my-5">
+            <div class="col-md-5 w3-animate-left">
+                <div class="heading">
+                    REVIVAL OF CLUTURE AMONG IITIANS (PRE-COVID IIT LIFE)
+                </div>
+                <p class="my-3">
+                    It is quite evident that after the outbreak of the COVID-19 virus, it is challenging to return to the world as it was before. Therefore, putting efforts in the right direction to revive the lost offline experiences is crucial. Even though the virtual world has its advantages, we can't deny the importance of classroom teaching, peer interactions, and senior-junior involvement. This lack of hands-on experience has deteriorated the social aspect of our lives.
+                </p>
+            </div>
+            <div class="col-md-5 w3-animate-right" style="display: flex; flex-direction: column; align-items: center;">
+                <div class="sub-heading">
+                    We envision discussing the following aspects
+                </div>
+                <div class="btn btn-light my-3" style="height: 100px; width: 30vw">
+                    What measures can be taken to encourage more and more students to be involved in cultural activities?
+                </div>
+                <div class="btn btn-info my-3" style="height: 100px; width: 30vw">
+                    What components of our current organizations (societies and clubs) need to change considering this online to offline transition again?
+                </div>
+                <div class="btn btn-dark my-3" style="height: 100px; width: 30vw">
+                    In what ways can we restore the gap between specific batches owing to the pandemic?
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php
+    include("footer.php");
+    ?>
