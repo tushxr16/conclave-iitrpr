@@ -67,6 +67,46 @@
         </div>
         <!-- AGENDA 3 -->
 
+        <!-- AGENDA 4 -->
+        <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-2.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
+            <div class="col-10 my-5">
+                <div class="justify-content-start w3-animate-left">
+                    <div class="agenda-layout">
+                        AGENDA 4
+                    </div>
+                    <div class="sub-heading my-3" style="text-overflow: hidden">
+                        PREPARE UG STUDENTS FOR PLACEMENTS IN CORE COMPANIES
+                    </div>
+                </div>
+                <div class="w3-animate-right">
+                    <p class="my-5" style="text-align: justify;">
+                        We've seen a major movement in engineering students' interests over the previous few decades, from core to SDE and non-core positions. Despite being a fascinating and insightful area, the core industry is short on competent workforce due to dwindling youth demand for possibilities. This could be attributed to various reasons like - students' lack of awareness about opportunities in core fields, less salary packages, lack of facilities and incentives as compared to software engineers.
+                    </p>
+                    <p style="text-align: justify;">
+                        The necessity of the hour is to elevate and promote the benefits of the core industry, as well as the opportunities that exist inside it. We need to reclaim our place in the core industry by changing students' and hiring employers' perspectives and strengthening our “Make in India” policy. As a result, the main focus of this summit will be on the following points:
+                    </p>
+                </div>
+            </div>
+            <div class="row justify-content-evenly">
+                <div class="col-md-5 w3-animate-left">
+                    <div class="my-3 agendaBlock" style="background: #7F62A0; color: white; display: flex; align-items: center;">
+                        How can the immense potential of the curious minds be guided and motivated in the proper direction?
+                    </div>
+                </div>
+                <div class="col-md-5 w3-animate-right">
+                    <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;">
+                        What steps should be implemented in collaboration with government authorities to pique people's interest in this field?
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-evenly">
+                <div class="col-md-5">
+                    <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;">
+                        What all can be negotiated with the core companies in order to attract them to hire more people with good packages?
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- AGENDA 5 -->
         <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-2.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
