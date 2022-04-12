@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarText">
                 <ul class="navbar-nav mx-3">
                     <li class="nav-item my-3">
-                        <a class="active gradient-box" aria-current="page" href="./index.php">Home</a>
+                        <a class="gradient-box-outline" href="./index.php">Home</a>
                     </li>
                     <li class="nav-item my-3">
                         <a class="gradient-box-outline" href="./prelude.php">Prelude</a>
@@ -30,9 +30,13 @@
                         <a class="gradient-box-outline" href="./agenda.php">Agenda</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a class="gradient-box-outline" href="./team.php">Team</a>
+                        <a class="active gradient-box" aria-current="page" href="./team.php">Team</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
+
+<?php
+include("footer.php");
+?>

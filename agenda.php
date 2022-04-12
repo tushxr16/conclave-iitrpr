@@ -21,13 +21,13 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarText">
                 <ul class="navbar-nav mx-3">
                     <li class="nav-item my-3">
-                        <a class="active gradient-box" aria-current="page" href="./index.php">Home</a>
+                        <a class="gradient-box-outline" href="./index.php">Home</a>
                     </li>
                     <li class="nav-item my-3">
                         <a class="gradient-box-outline" href="./prelude.php">Prelude</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a class="gradient-box-outline" href="./agenda.php">Agenda</a>
+                        <a class="active gradient-box" aria-current="page" href="./agenda.php">Agenda</a>
                     </li>
                     <li class="nav-item my-3">
                         <a class="gradient-box-outline" href="./team.php">Team</a>
@@ -36,25 +36,6 @@
             </div>
         </div>
     </nav>
-
-<div class="container-fluid">
-    <div class="row justify-content-evenly stars-bg">
-        <div class="col-md-5 cent w3-animate-left">
-            <div class="heading">
-                Parley, Pioneer And Prosper
-            </div>
-            <div class="sub-heading">
-                Leadership Conclave 2022: A step towards building a forum to delimitate the Inter-IIT boundaries
-            </div>
-            <div class="dates-layout">
-                DATES: 13-15 May '22
-            </div>
-        </div>
-        <div class="col-md-5 w3-animate-right">
-            <img src="./images/meeting.png" class="img-resp"></img>
-        </div>
-    </div>
-</div>
 
 <?php
 include("footer.php");
