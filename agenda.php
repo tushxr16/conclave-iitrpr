@@ -71,7 +71,7 @@
         <!-- AGENDA 5 -->
         <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-2.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
             <div class="col-10 my-5">
-                <div class="justify-content-start">
+                <div class="justify-content-start w3-animate-left">
                     <div class="agenda-layout">
                         AGENDA 5
                     </div>
@@ -79,19 +79,19 @@
                         TO STOP BRAIN-DRAIN FROM THE COUNTRY (JOBS/HIGHER EDUCATION)
                     </div>
                 </div>
-                <p class="my-5" style="text-align: justify;"> Around one-third of the IIT graduates move out of our country for further studies and better job opportunities that results in loss of talent due and this impacts the nation in terms of economic development and overall growth. Lack of funding for research, degraded quality of life and non-recognition of their work are some of the reasons responsible for brain drain. </p>
-                <p style="text-align: justify;">Our summit needs to address and discuss the Further mentioned problems:</p>
-                <div class="col-md-5 w3-animate-right" style="display: flex; flex-direction: column; align-items: center;">
+                <div class="w3-animate-right">
+                    <p class="my-5" style="text-align: justify;"> Around one-third of the IIT graduates move out of our country for further studies and better job opportunities that results in loss of talent due and this impacts the nation in terms of economic development and overall growth. Lack of funding for research, degraded quality of life and non-recognition of their work are some of the reasons responsible for brain drain. </p>
+                    <p style="text-align: justify;">Our summit needs to address and discuss the Further mentioned problems:</p>
                 </div>
             </div>
             <div class="row justify-content-evenly">
-                <div class="col-md-5">
+                <div class="col-md-5 w3-animate-left">
                     <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center;">
                         Do highly competent workers send money home, invest, and share their knowledge? If not, what needs to be done to ensure that this occurs? </div>
                     <div class="my-3 agendaBlock" style="background: #2E526A; color: white; display: flex; align-items: center;">
                         What do we know about the fiscal and production externalities of brain drain, and isn't it time we returned the favor to the society that helped us develop our moral responsibility? </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-5 w3-animate-right">
                     <div class="my-3 agendaBlock" style="background: #2184A3; color: white; display: flex; align-items: center;">
                         What are the ramifications of such migration, particularly on the educational system and the country's development? </div>
                     <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;">

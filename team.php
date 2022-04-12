@@ -12,7 +12,7 @@
 </head>
 
 <body class="background-img">
-    <nav class="navbar navbar-expand-lg navbar-light navbar-grad bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <a class="nav-brand-layout" href="./index.php">Leadership Summit 2022</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
