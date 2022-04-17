@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -18,7 +19,7 @@
   </head>
 
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top" id="navbar-example2">
       <div class="container-fluid">
         <a class="nav-brand-layout" href="./index.php"
           >Leadership Summit 2022</a
@@ -38,41 +39,41 @@
           class="collapse navbar-collapse justify-content-end"
           id="navbarText"
         >
-          <ul class="navbar-nav mx-3">
+          <ul class="navbar-nav mx-3 nav-tabs" role="tablist" id="mainNav">
             <li class="nav-item my-3">
-              <a class="active gradient-box" aria-current="page" href="#home"
+              <a aria-current="page" href="#home" class="gradient-box-outline gradient-box"
                 >Home</a
               >
             </li>
             <li class="nav-item my-3">
-              <a class="gradient-box-outline" href="#prelude">Prelude</a>
+              <a href="#prelude" class="gradient-box-outline">Prelude</a>
             </li>
             <li class="nav-item my-3">
-              <a class="gradient-box-outline" href="#agendas">Agendas</a>
+              <a href="#agendas" class="gradient-box-outline">Agendas</a>
             </li>
             <li class="nav-item my-3">
-              <a class="gradient-box-outline" href="#team">Team</a>
+              <a href="#team" class="gradient-box-outline">Team</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
 
-    <section id="home" class="background-img py-5">
-      <div class="container-fluid">
-        <div class="row justify-content-evenly my-5">
-          <div class="col-md-5 cent w3-animate-right"></div>
-          <div class="col-md-5 cent w3-animate-left">
-            <div class="heading my-3">Parley, Pioneer And Prosper</div>
-            <div class="sub-heading my-3">
-              Leadership Conclave 2022: A step towards building a forum to
-              delimitate the Inter-IIT boundaries
-            </div>
-            <div class="dates-layout">DATES: 13-15 May '22</div>
-          </div>
-        </div>
-      </div>
-    </section>
+		<section id="home" class="background-img py-5">
+		  <div class="container-fluid">
+			<div class="row justify-content-evenly my-5">
+			  <div class="col-md-5 cent w3-animate-right"></div>
+			  <div class="col-md-5 cent w3-animate-left">
+				<div class="heading my-3">Parley, Pioneer And Prosper</div>
+				<div class="sub-heading my-3">
+				  Leadership Conclave 2022: A step towards building a forum to
+				  delimitate the Inter-IIT boundaries
+				</div>
+				<div class="dates-layout">DATES: 13-15 May '22</div>
+			  </div>
+			</div>
+		  </div>
+		</section>
 
     <section id="prelude" class="background-img py-5">
       <div class="container-fluid">
@@ -718,6 +719,7 @@
         <br>
     </div>
     </section>
+	
     <script>
       var select = 'o';
 
@@ -794,6 +796,7 @@
           $(finalClass).css('color', 'white');
       });
   </script>
+  <script src="script/nav.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>

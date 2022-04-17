@@ -30,7 +30,7 @@
   }
 }
 
-.gradient-box {
+.gradient-box{
   background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
   border-radius: 20px;
   margin-right: 1rem;
@@ -38,18 +38,37 @@
   text-decoration: none;
   justify-content: center;
   color: white !important;
+  border:none !important;
 }
 
-.gradient-box-outline {
+.gradient-box-outline{
   border: solid 1px #5b68df;
   border-radius: 20px;
   margin-right: 1rem;
-  padding: 0.5rem 1rem 0.5rem 1rem;
+  padding: 0.5rem 1rem;
   text-decoration: none;
   justify-content: center;
-  color: black !important;
+  color: black;
 }
-
+@media screen and (max-width: 768px) {
+  .gradient-box-outline{
+  display:flex;
+  border: solid 1px #5b68df;
+  border-radius: 20px;
+  margin-right: 1rem;
+  padding: 0.5rem 0;
+  margin:0;
+  text-decoration: none;
+  justify-content: center;
+  color: black;
+  width:auto;
+}
+}
+.nav-item
+{
+	text-align:center;
+	width:100%;
+}
 /* BODY */
 
 @media screen and (max-width: 768px) {
