@@ -3,7 +3,6 @@
 
 <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="description" content="Leadership Summit '22 | IIT Ropar" />
     <meta name="author" content="IIT Ropar" />
     <meta name="keywords" content="Leadership, Summit, IIT Ropar, Conclave" />
@@ -13,11 +12,12 @@
     <meta property="og:title" content="Leadership Summit '22 | IIT Ropar" />
     <meta property="og:description" content="Leadership Summit '22 Official Website" />
     <meta property="og:url" content="https://leadership-summit22.herokuapp.com/" />
-    <meta property="og:image" content="images/LOGO.jpg" />
+    <meta property="og:image" content="images/LOGO.jpeg" />
     <title>Leadership Summit 2022</title>
+    <link rel="icon" href="images/LOGO.jpg" type="image/jpg">
     <link rel="stylesheet" href="styles/home.css" />
     <link rel="stylesheet" href="styles/animation.css" />
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
