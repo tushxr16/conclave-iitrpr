@@ -56,11 +56,13 @@
                 <div class="col-md-5 cent w3-animate-right"></div>
                 <div class="col-md-5 cent w3-animate-left">
                     <div class="heading my-3">Parley, Pioneer And Prosper</div>
-                    <div class="sub-heading my-3">
-                        Leadership Conclave 2022: A step towards building a forum to
-                        delimitate the Inter-IIT boundaries
+                    <div class="my-3" style="font-size: large;">
+                        Leadership Conclave 2022: A step towards building a forum to delimitate the Inter-IIT boundaries. We envision involving the student leaders to start conversations and the policymakers to build a conducive environment that will benefit the country in the long run.
                     </div>
                     <div class="dates-layout">DATES: 13-15 May '22</div>
+                    <div class="my-3" style="font-size:x-large;">
+                        <b>Theme</b> : To bridge the gap between graduate and undergraduate technocrats
+                    </div>
                 </div>
             </div>
         </div>
@@ -114,7 +116,7 @@
             <div class="row justify-content-evenly my-5">
                 <div class="col-md-5 w3-animate-left justify-content-evenly">
                     <div class="heading">
-                        REVIVAL OF CLUTURE AMONG IITIANS (PRE-COVID IIT LIFE)
+                        REVIVAL OF CULTURE AMONG IITIANS (PRE-COVID IIT LIFE)
                     </div>
                     <p class="my-5" style="text-align: justify;">
                         It is quite evident that after the outbreak of the COVID-19 virus, it is challenging to return to the world as it was before. Therefore, putting efforts in the right direction to revive the lost offline experiences is crucial. Even though the virtual world has its advantages, we can't deny the importance of classroom teaching, peer interactions, and senior-junior involvement. This lack of hands-on experience has deteriorated the social aspect of our lives.
@@ -138,20 +140,18 @@
             </div>
             <!-- AGENDA 2 -->
             <div class="row justify-content-center my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
-                <div class="col-10 my-5">
+                <div class="col-md-10 my-5">
                     <div class="justify-content-start w3-animate-left">
                         <div class="heading my-3" style="text-overflow: hidden">
                             MENTORING PROGRAMS OF ENGINEERING STUDENTS BY IIT STUDENT COUNCILS </div>
                     </div>
                     <div class="w3-animate-right">
                         <p class="my-5" style="text-align: justify;"> Not All Students Are Fortunate Enough To Experience The Sophisticated Professionalism Across All Fronts That We Do. This Leads To A Growing Disparity Between The Skills Levels And Future Prospects Of Scholars.</p>
+                        <p class="my-5" style="text-align: justify;"> The onus Of trying to bridge this gap falls on us and only by collaborating and exchanging ideas, we can provide equal footing and opportunities to many who deserve it. Mentorship by Phd students to these students from nearby colleges is one of the Leads. The conclave aims to bring forth this problem :</p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
-                        <p class="my-3 agendaBlock" style="text-align: justify; color: black; display: flex; align-items: center;">
-                            The Onus Of Trying To Bridge This Gap Falls On Us And Only By Collaborating And Exchanging Ideas, We Can Provide Equal Footing And Opportunities To Many Who Deserve It. Mentorship By Phd Students To These Students From Nearby Colleges Is One Of The Leads. The Conclave Aims To Bring Forth This Problem :
-                        </p>
                         <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center;">
                             How can student councils provide guidance to some nearby colleges and universities about the approaches and conducts in the industry, and creation of a conducive college culture?
                         </div>
@@ -160,6 +160,10 @@
                         <div class="my-3 agendaBlock" style="background: #2184A3; color: white; display: flex; align-items: center;">
                             Will Incentivising PhD students to promote and mentor students in technological literacy, development in skills, and an overall evolution in the quality of individuals of a nearby institution be a good idea?
                         </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-5 w3-animate-bottom">
                         <div class="my-3 agendaBlock" style="background: #2E526A; color: white; display: flex; align-items: center;">
                             How to Increase engagement and begin a real turnaround by starting collaborative interdisciplinary projects with other colleges and universities?
                         </div>
@@ -190,15 +194,17 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
-                        <div class="my-3 sub-heading">
+                        <div class="my-3">
                             At this conclave we are seeking ways to bring these two student groups closer together:
                         </div>
+                    </div>
+                    <div class="col-md-5">
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
                         <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;">
-                            In what further ways can this bond be strengthened that both learn something from each other. </div>
+                            In what further ways can this bond be strengthened that both learn something from each other? </div>
                         <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;">
                             Will creating a mandatory interdisciplinary project after the second year so as to facilitate more communication and interaction between the two groups help achieve our goals?
                         </div>
@@ -260,8 +266,8 @@
                         </div>
                     </div>
                     <div class="w3-animate-right">
-                        <p class="my-5" style="text-align: justify;"> Around one-third of the IIT graduates move out of our country for further studies and better job opportunities that results in loss of talent due and this impacts the nation in terms of economic development and overall growth. Lack of funding for research, degraded quality of life and non-recognition of their work are some of the reasons responsible for brain drain. </p>
-                        <p style="text-align: justify;">Our summit needs to address and discuss the Further mentioned problems:</p>
+                        <p class="my-5" style="text-align: justify;"> Around one-third of the IIT graduates move out of our country for further studies and better job opportunities that results in loss of talent and this impacts the nation in terms of economic development and overall growth. Lack of funding for research, degraded quality of life and non-recognition of their work are some of the reasons responsible for brain drain. </p>
+                        <p style="text-align: justify;">Our summit needs to address and discuss the further mentioned problems:</p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -291,147 +297,30 @@
         </div>
 
         <div class="container">
-            <div class="row justify-content-md-center">
-                <div class="col col-md-auto first-dia">
-                    <div class="p-2 selecting-ad" id="o-select">Overall Coordinators</div>
+            <div class="row justify-content-evenly">
+                <div class="col-md-6 justify-content-around" style="display: flex;">
+                    <div class="selecting-ad" id="p-select">Patrons</div>
+                    <div class="selecting-ad" id="m-select">Mentors</div>
                 </div>
-                <div class="col col-md-auto first-dia">
-                    <div class="p-2 selecting-ad" id="h-select">Hospitality</div>
-                </div>
-                <div class="col col-md-auto first-dia">
-                    <div class="p-2 selecting-ad" id="w-select">Website</div>
-                </div>
-                <div class="col col-md-auto first-dia">
-                    <div class="p-2 selecting-ad" id="m-select">Moderators</div>
-                </div>
-                <div class="col col-md-auto first-dia">
-                    <div class="p-2 selecting-ad" id="t-select">Tech</div>
-                </div>
-                <div class="col col-md-auto second-dia">
-                    <div class="p-2 selecting-ad" id="mc-select">Minutes & Content</div>
-                </div>
-            </div>
-            <div class="row justify-content-md-center">
-                <div class="col col-md-auto second-dia">
-                    <div class="p-2 selecting-ad" id="p-select">Poster Making</div>
-                </div>
-                <div class="col col-md-auto second-dia">
-                    <div class="p-2 selecting-ad" id="d-select">Doubt Clearance</div>
+                <div class="col-md-6 justify-content-around" style="display: flex;">
+                    <div class="selecting-ad" id="c-select">Core Team</div>
+                    <div class="selecting-ad" id="o-select">Organising Team</div>
                 </div>
             </div>
         </div>
-        <div class="container" id="o-content">
+        <div class="container" id="p-content">
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
                         <img src="./images/tushar.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
+                            <h5 class="card-title">Patrons</h5>
                         </div>
                     </div>
 
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-
-        <div class="container" id="h-content">
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Hospitality</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-
-        <div class="container" id="w-content">
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Website</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
                         <img src="./images/tushar.jpg" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">Tushar Sharma</h5>
@@ -473,7 +362,7 @@
 
                         <img src="./images/tushar.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Moderators</h5>
+                            <h5 class="card-title">Mentors</h5>
                         </div>
                     </div>
 
@@ -515,14 +404,14 @@
             <br>
         </div>
 
-        <div class="container" id="t-content">
+        <div class="container" id="c-content">
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
 
                         <img src="./images/tushar.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Tech</h5>
+                            <h5 class="card-title">Core Team</h5>
                         </div>
                     </div>
 
@@ -564,14 +453,14 @@
             <br>
         </div>
 
-        <div class="container" id="mc-content">
+        <div class="container" id="o-content">
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
 
                         <img src="./images/tushar.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Minutes & content</h5>
+                            <h5 class="card-title">Organizing Team</h5>
                         </div>
                     </div>
 
@@ -607,103 +496,6 @@
 
                 </div>
 
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-
-        <div class="container" id="p-content">
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Poster making</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-
-        <div class="container" id="d-content">
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Doubt clearance</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tushar.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
-                        </div>
-                    </div>
-
-                </div>
             </div>
             <br>
             <br>
@@ -716,13 +508,9 @@
 
         $(".selecting-ad").click(function() {
             $('#o-content').hide();
-            $('#h-content').hide();
-            $('#w-content').hide();
             $('#m-content').hide();
-            $('#t-content').hide();
-            $('#mc-content').hide();
             $('#p-content').hide();
-            $('#d-content').hide();
+            $('#c-content').hide();
             $('.selecting-ad').css('background', 'none');
             $('.selecting-ad').css('color', 'black');
         });
@@ -733,35 +521,11 @@
             $('#o-select').css('color', 'white');
             select = 'o';
         });
-        $("#h-select").click(function() {
-            $('#h-content').show();
-            $('#h-select').css('background', '#5D6FDD');
-            $('#h-select').css('color', 'white');
-            select = 'h';
-        });
-        $("#w-select").click(function() {
-            $('#w-content').show();
-            $('#w-select').css('background', '#5D6FDD');
-            $('#w-select').css('color', 'white');
-            select = 'w';
-        });
         $("#m-select").click(function() {
             $('#m-content').show();
             $('#m-select').css('background', '#5D6FDD');
             $('#m-select').css('color', 'white');
             select = 'm';
-        });
-        $("#t-select").click(function() {
-            $('#t-content').show();
-            $('#t-select').css('background', '#5D6FDD');
-            $('#t-select').css('color', 'white');
-            select = 't';
-        });
-        $("#mc-select").click(function() {
-            $('#mc-content').show();
-            $('#mc-select').css('background', '#5D6FDD');
-            $('#mc-select').css('color', 'white');
-            select = 'mc';
         });
         $("#p-select").click(function() {
             $('#p-content').show();
@@ -769,11 +533,11 @@
             $('#p-select').css('color', 'white');
             select = 'p';
         });
-        $("#d-select").click(function() {
-            $('#d-content').show();
-            $('#d-select').css('background', '#5D6FDD');
-            $('#d-select').css('color', 'white');
-            select = 'd';
+        $("#c-select").click(function() {
+            $('#c-content').show();
+            $('#c-select').css('background', '#5D6FDD');
+            $('#c-select').css('color', 'white');
+            select = 'c';
         });
 
         $(".selecting-ad").hover(function() {
