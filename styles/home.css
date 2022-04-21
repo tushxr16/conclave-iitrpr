@@ -203,13 +203,13 @@ body {
 }
 
 .team-head-ad h1 {
-  font-size: 50px;
+  font-size: 44px;
 }
 
 .team-head-ad h1:after {
   content: "";
   background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
-  width: 350px;
+  width: 280px;
   height: 5px;
   border-radius: 5px;
   position: absolute;
@@ -223,7 +223,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: bolder;
 }
 
