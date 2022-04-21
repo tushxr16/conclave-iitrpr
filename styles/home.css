@@ -5,6 +5,10 @@
   font-weight: bold;
 }
 
+body{
+  overflow-x: hidden;
+}
+
 /* NAVBAR */
 .navbar-grad {
   background: linear-gradient(90deg, #ecf3fe 0%, #d1e2f0 100%);
@@ -296,12 +300,28 @@ body {
   }
 }
 
+/* Code for Team Card aligning items to center  */
+
 @media screen and (max-width: 460px) {
-    #team img{
-      width: 30vw;
-    }
-    .card{
-      align-items: center;
-      justify-content: center;
-    }
+  #team img{
+    width: 30vw;
+  }
+  .card{
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+/* Code for body width problem */
+
+@media screen and (max-width: 400px) {
+  body{
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .prelude-content{
+    font-size: 0.6rem;
+  }
 }
