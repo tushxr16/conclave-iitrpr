@@ -153,9 +153,9 @@
                         <div class="heading my-3" style="text-overflow: hidden">
                             MENTORING PROGRAMS OF ENGINEERING STUDENTS BY IIT STUDENT COUNCILS </div>
                     </div>
-                    <div class="w3-animate-right">
-                        <p class="my-5" style="text-align: justify;"> Not All Students Are Fortunate Enough To Experience The Sophisticated Professionalism Across All Fronts That We Do. This Leads To A Growing Disparity Between The Skills Levels And Future Prospects Of Scholars.</p>
-                        <p class="my-5" style="text-align: justify;"> The onus Of trying to bridge this gap falls on us and only by collaborating and exchanging ideas, we can provide equal footing and opportunities to many who deserve it. Mentorship by Phd students to these students from nearby colleges is one of the Leads. The conclave aims to bring forth this problem :</p>
+                    <div class="w3-animate-right row justify-content-center">
+                        <p class="col-md-5" style="text-align: justify;"> Not All Students Are Fortunate Enough To Experience The Sophisticated Professionalism Across All Fronts That We Do. This Leads To A Growing Disparity Between The Skills Levels And Future Prospects Of Scholars.</p>
+                        <p class="col-md-5" style="text-align: justify;"> The onus Of trying to bridge this gap falls on us and only by collaborating and exchanging ideas, we can provide equal footing and opportunities to many who deserve it. Mentorship by Phd students to these students from nearby colleges is one of the Leads. The conclave aims to bring forth this problem :</p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -181,7 +181,7 @@
 
             <!-- AGENDA 3 -->
             <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
-                <div class="col-10 my-5">
+                <div class="col-md-10 my-5">
                     <div class="justify-content-start w3-animate-left">
                         <div class="heading my-3" style="text-overflow: hidden">
                             MENTORING OF UG STUDENTS BY PHD STUDENTS (ACADEMICS, RESEARCH AND EXTRA CURRICULAR)
@@ -229,7 +229,7 @@
             </div>
             <!-- AGENDA 4 -->
             <div class="row justify-content-center my-5" style="background: url('./images/agenda-4.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
-                <div class="col-10 my-5">
+                <div class="col-md-10 my-5">
                     <div class="justify-content-start w3-animate-left">
                         <div class="heading my-3" style="text-overflow: hidden">
                             PREPARE UG STUDENTS FOR PLACEMENTS IN CORE COMPANIES
@@ -267,7 +267,7 @@
 
             <!-- AGENDA 5 -->
             <div class="row justify-content-center my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
-                <div class="col-10 my-5">
+                <div class="col-md-10 my-5">
                     <div class="justify-content-start w3-animate-left">
                         <div class="heading my-3" style="text-overflow: hidden">
                             TO STOP BRAIN-DRAIN FROM THE COUNTRY (JOBS/HIGHER EDUCATION)
