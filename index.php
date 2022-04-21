@@ -22,7 +22,12 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- New Addition FontAwesome Icons Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
+
 
 <body>
     <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top" id="navbar-example2">
@@ -45,6 +50,9 @@
                     <li class="nav-item my-3">
                         <a href="#team" class="gradient-box-outline">Team</a>
                     </li>
+                    <li class="nav-item my-3">
+                        <a href="#contact" class="gradient-box-outline">Contact</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -60,7 +68,7 @@
                         Leadership Conclave 2022: A step towards building a forum to delimitate the Inter-IIT boundaries. We envision involving the student leaders to start conversations and the policymakers to build a conducive environment that will benefit the country in the long run.
                     </div>
                     <div class="dates-layout">DATES: 13-15 May '22</div>
-                    <div class="my-3" style="font-size:x-large;">
+                    <div class="my-3" style="font-size:x-large;" id="theme">
                         <b>Theme</b> : To bridge the gap between graduate and undergraduate technocrats
                     </div>
                 </div>
@@ -127,13 +135,13 @@
                     <div class="sub-heading">
                         We envision discussing the following aspects
                     </div>
-                    <div class="my-3 agendaBlock" style="background: #00A8C6; color: white; display: flex; align-items: center;">
+                    <div class="my-3 agendaBlock" style="background: #00A8C6; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
                         What measures can be taken to encourage more and more students to be involved in cultural activities?
                     </div>
-                    <div class="my-3 agendaBlock" style="background: #8F77B4; color: white; display: flex; align-items: center;">
+                    <div class="my-3 agendaBlock" style="background: #8F77B4; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
                         What components of our current organizations (societies and clubs) need to change considering this online to offline transition again?
                     </div>
-                    <div class="my-3 agendaBlock" style="background: #757284; color: white; display: flex; align-items: center;">
+                    <div class="my-3 agendaBlock" style="background: #757284; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
                         In what ways can we restore the gap between specific batches owing to the pandemic?
                     </div>
                 </div>
@@ -152,19 +160,19 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
-                        <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center; filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How can student councils provide guidance to some nearby colleges and universities about the approaches and conducts in the industry, and creation of a conducive college culture?
                         </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
-                        <div class="my-3 agendaBlock" style="background: #2184A3; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             Will Incentivising PhD students to promote and mentor students in technological literacy, development in skills, and an overall evolution in the quality of individuals of a nearby institution be a good idea?
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-bottom">
-                        <div class="my-3 agendaBlock" style="background: #2E526A; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How to Increase engagement and begin a real turnaround by starting collaborative interdisciplinary projects with other colleges and universities?
                         </div>
                     </div>
@@ -203,17 +211,17 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
-                        <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             In what further ways can this bond be strengthened that both learn something from each other? </div>
-                        <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             Will creating a mandatory interdisciplinary project after the second year so as to facilitate more communication and interaction between the two groups help achieve our goals?
                         </div>
                     </div>
                     <div class="col-md-5">
-                        <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             What are the improvements and suggestions in the current BTP Project system?
                         </div>
-                        <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How will the mentorship be done by the already busy and occupied research scholars?
                         </div>
                     </div>
@@ -238,19 +246,19 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
-                        <div class="my-3 agendaBlock" style="background: #7F62A0; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #7F62A0; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How can the immense potential of the curious minds be guided and motivated in the proper direction?
                         </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
-                        <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             What steps should be implemented in collaboration with government authorities to pique people's interest in this field?
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-bottom">
-                        <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             What all can be negotiated with the core companies in order to attract them to hire more people with good packages?
                         </div>
                     </div>
@@ -272,15 +280,15 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
-                        <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             Do highly competent workers send money home, invest, and share their knowledge? If not, what needs to be done to ensure that this occurs? </div>
-                        <div class="my-3 agendaBlock" style="background: #2E526A; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             What do we know about the fiscal and production externalities of brain drain, and isn't it time we returned the favor to the society that helped us develop our moral responsibility? </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
-                        <div class="my-3 agendaBlock" style="background: #2184A3; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             What are the ramifications of such migration, particularly on the educational system and the country's development? </div>
-                        <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;">
+                        <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How can the startup culture be resurrected in India so that Indians, rather than becoming CEOs of large foreign corporations, form MNCs in their own country? </div>
                     </div>
                 </div>
@@ -296,7 +304,7 @@
             </div>
         </div>
 
-        <div class="container">
+        <!-- <div class="container">
             <div class="row justify-content-evenly">
                 <div class="col-md-6 justify-content-around" style="display: flex;">
                     <div class="selecting-ad" id="p-select">Patrons</div>
@@ -307,8 +315,9 @@
                     <div class="selecting-ad" id="o-select">Organising Team</div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="container" id="p-content">
+            <div class ="team-heading" >Patrons</div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -356,6 +365,7 @@
         </div>
 
         <div class="container" id="m-content">
+            <div class ="team-heading" >Mentors</div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -405,6 +415,7 @@
         </div>
 
         <div class="container" id="c-content">
+            <div class ="team-heading" >Core Team</div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -454,6 +465,7 @@
         </div>
 
         <div class="container" id="o-content">
+            <div class ="team-heading" >Organizing Team</div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -502,6 +514,64 @@
             <br>
         </div>
     </section>
+
+
+
+    <section class = "py-5" id="contact">
+    
+        <div class="d-flex flex-column h-100">
+
+            <section class="hero text-dark py-2 flex-grow-1">
+                <div class="container-fluid">
+                    <div class="row my-5">
+                        <div class="col-md-12 team-head-ad">
+                            <h1><i class="fa fa-home"></i> Contact Us</h1>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+
+            <!-- FOOTER -->
+            <footer class="w-100 py-4 flex-shrink-0">
+                <div class="container py-4">
+                    <div class="row gy-4 gx-5">
+                        <!-- <div class="col-lg-4 col-md-6">
+                            <h5 class="h1 text-dark">FB.</h5>
+                            <p class="small text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                            <p class="small text-muted mb-0">&copy; Copyrights. All rights reserved. <a class="text-primary" href="#">Bootstrapious.com</a></p>
+                        </div> -->
+                        <div class="col-lg-4 col-md-4">
+                            <h5 class="text-dark mb-3"><i class="fa fa-map-marker"></i> Address</h5>
+                            <p>Main Campus <br>
+                                Indian Institute of Technology Ropar <br>
+                                Rupnagar <br>
+                                Punjab, INDIA 140001
+                            </p>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4">
+                            <h5 class="text-dark mb-3"><i class="fa fa-phone"></i> Call</h5>
+                            <ul class="list-unstyled text-muted">
+                                <li> Prachi  +91-8527-997951 </li>
+                                <li> Diksha Mittal  +91-9416-914467</li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4">
+                            <h5 class="text-dark mb-3"><i class="fa fa-envelope" ></i> Mail</h5>
+                            <p class="small text-dark">leadership.summit@iitrpr.ac.in</p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        
+        </div>
+
+
+    </section>
+
 
     <script>
         var select = 'o';

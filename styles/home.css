@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+  font-family: 'Poppins';
+  font-weight: bold;
+}
+
 /* NAVBAR */
 .navbar-grad {
   background: linear-gradient(90deg, #ecf3fe 0%, #d1e2f0 100%);
@@ -207,30 +214,39 @@ body {
   transform: translateX(-50%);
   display: flex;
 }
+
+.team-heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
 #o-select {
   background: #5d6fdd;
   color: white;
 }
 #h-content {
-  display: none;
+  /* display: none; */
 }
 #w-content {
-  display: none;
+  /* display: none; */
 }
 #m-content {
-  display: none;
+  /* display: none; */
 }
 #t-content {
-  display: none;
+  /* display: none; */
 }
 #mc-content {
-  display: none;
+  /* display: none; */
 }
 #p-content {
-  display: none;
+  /* display: none; */
 }
 #d-content {
-  display: none;
+  /* display: none; */
 }
 
 .selecting-ad {
@@ -299,4 +315,14 @@ body {
     padding-right: 0px !important;
     margin: 0;
   }
+}
+
+@media screen and (max-width: 460px) {
+    #team img{
+      width: 30vw;
+    }
+    .card{
+      align-items: center;
+      justify-content: center;
+    }
 }
