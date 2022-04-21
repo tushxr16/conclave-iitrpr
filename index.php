@@ -303,19 +303,7 @@
                 </div>
             </div>
         </div>
-
-        <!-- <div class="container">
-            <div class="row justify-content-evenly">
-                <div class="col-md-6 justify-content-around" style="display: flex;">
-                    <div class="selecting-ad" id="p-select">Patrons</div>
-                    <div class="selecting-ad" id="m-select">Mentors</div>
-                </div>
-                <div class="col-md-6 justify-content-around" style="display: flex;">
-                    <div class="selecting-ad" id="c-select">Core Team</div>
-                    <div class="selecting-ad" id="o-select">Organising Team</div>
-                </div>
-            </div>
-        </div> -->
+        
         <div class="container" id="p-content">
             <div class ="team-heading" >Patrons</div>
             <div class="row">
