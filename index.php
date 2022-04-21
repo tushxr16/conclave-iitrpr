@@ -317,7 +317,7 @@
             </div>
         </div> -->
         <div class="container" id="p-content">
-            <div class ="team-heading" >Patrons</div>
+            <div class="team-heading">Patrons</div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -365,7 +365,7 @@
         </div>
 
         <div class="container" id="m-content">
-            <div class ="team-heading" >Mentors</div>
+            <div class="team-heading">Mentors</div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -415,7 +415,7 @@
         </div>
 
         <div class="container" id="c-content">
-            <div class ="team-heading" >Core Team</div>
+            <div class="team-heading">Core Team</div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -465,7 +465,7 @@
         </div>
 
         <div class="container" id="o-content">
-            <div class ="team-heading" >Organizing Team</div>
+            <div class="team-heading">Organizing Team</div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -517,11 +517,9 @@
 
 
 
-    <section class = "py-5" id="contact">
-    
+    <section id="contact">
         <div class="d-flex flex-column h-100">
-
-            <section class="hero text-dark py-2 flex-grow-1">
+            <div class="hero text-dark py-2 flex-grow-1">
                 <div class="container-fluid">
                     <div class="row my-5">
                         <div class="col-md-12 team-head-ad">
@@ -529,19 +527,11 @@
                         </div>
                     </div>
                 </div>
-
-            </section>
-
-
+            </div>
             <!-- FOOTER -->
             <footer class="w-100 py-4 flex-shrink-0">
                 <div class="container py-4">
                     <div class="row gy-4 gx-5">
-                        <!-- <div class="col-lg-4 col-md-6">
-                            <h5 class="h1 text-dark">FB.</h5>
-                            <p class="small text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
-                            <p class="small text-muted mb-0">&copy; Copyrights. All rights reserved. <a class="text-primary" href="#">Bootstrapious.com</a></p>
-                        </div> -->
                         <div class="col-lg-4 col-md-4">
                             <h5 class="text-dark mb-3"><i class="fa fa-map-marker"></i> Address</h5>
                             <p>Main Campus <br>
@@ -554,73 +544,20 @@
                         <div class="col-lg-4 col-md-4">
                             <h5 class="text-dark mb-3"><i class="fa fa-phone"></i> Call</h5>
                             <ul class="list-unstyled text-muted">
-                                <li> Prachi  +91-8527-997951 </li>
-                                <li> Diksha Mittal  +91-9416-914467</li>
+                                <li> Prachi +91-8527-997951 </li>
+                                <li> Diksha Mittal +91-9416-914467</li>
                             </ul>
                         </div>
 
                         <div class="col-lg-4 col-md-4">
-                            <h5 class="text-dark mb-3"><i class="fa fa-envelope" ></i> Mail</h5>
+                            <h5 class="text-dark mb-3"><i class="fa fa-envelope"></i> Mail</h5>
                             <p class="small text-dark">leadership.summit@iitrpr.ac.in</p>
                         </div>
                     </div>
                 </div>
             </footer>
-        
         </div>
-
-
     </section>
-
-
-    <script>
-        var select = 'o';
-
-        $(".selecting-ad").click(function() {
-            $('#o-content').hide();
-            $('#m-content').hide();
-            $('#p-content').hide();
-            $('#c-content').hide();
-            $('.selecting-ad').css('background', 'none');
-            $('.selecting-ad').css('color', 'black');
-        });
-
-        $("#o-select").click(function() {
-            $('#o-content').show();
-            $('#o-select').css('background', '#5D6FDD');
-            $('#o-select').css('color', 'white');
-            select = 'o';
-        });
-        $("#m-select").click(function() {
-            $('#m-content').show();
-            $('#m-select').css('background', '#5D6FDD');
-            $('#m-select').css('color', 'white');
-            select = 'm';
-        });
-        $("#p-select").click(function() {
-            $('#p-content').show();
-            $('#p-select').css('background', '#5D6FDD');
-            $('#p-select').css('color', 'white');
-            select = 'p';
-        });
-        $("#c-select").click(function() {
-            $('#c-content').show();
-            $('#c-select').css('background', '#5D6FDD');
-            $('#c-select').css('color', 'white');
-            select = 'c';
-        });
-
-        $(".selecting-ad").hover(function() {
-            $(this).css('background', '#5D6FDD');
-            $(this).css('color', 'white');
-        }, function() {
-            $(this).css('background', 'none');
-            $(this).css('color', 'black');
-            var finalClass = '#' + select + '-select';
-            $(finalClass).css('background', '#5D6FDD');
-            $(finalClass).css('color', 'white');
-        });
-    </script>
     <script src="script/nav.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
