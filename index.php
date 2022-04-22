@@ -532,8 +532,8 @@
                         <div class="col-lg-4 col-md-4">
                             <h5 class="text-dark mb-3"><i class="fa fa-phone"></i> Call</h5>
                             <ul class="list-unstyled text-muted">
+                                <li> Diksha +91-9416-914467</li>
                                 <li> Prachi +91-8527-997951 </li>
-                                <li> Diksha Mittal +91-9416-914467</li>
                             </ul>
                         </div>
 
