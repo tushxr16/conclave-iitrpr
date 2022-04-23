@@ -17,11 +17,10 @@
     <link rel="icon" href="images/LOGO.jpg">
     <link rel="stylesheet" href="styles/home.css" />
     <link rel="stylesheet" href="styles/animation.css" />
+    <link rel="stylesheet" href="styles/bootstrap.css" />
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- New Addition FontAwesome Icons Link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -65,7 +64,7 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="container" id="p-content">
             <div class="team-heading">Patrons</div>
             <div class="row" style="justify-content: center;">
@@ -73,7 +72,7 @@
                     <div class="card card-body flex-fill card-custom-ad w-75">
                         <img src="./images/rajeev-ahuja.jpeg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Dr. Rajeev Ahuja - Director </h5>
+                            <h6 class="card-title">Dr. Rajeev Ahuja - Director </h6>
                         </div>
                     </div>
 
@@ -82,12 +81,12 @@
                     <div class="card card-body flex-fill card-custom-ad">
                         <img src="./images/dr-k-radhakrishnan.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Dr. K. Radhakrishnan- Chairperson, BoG</h5>
+                            <h6 class="card-title">Dr. K. Radhakrishnan- Chairperson, BoG</h6>
                         </div>
                     </div>
 
                 </div>
-                
+
 
             </div>
             <br>
@@ -103,7 +102,7 @@
 
                         <img src="./images/sc-martha.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Dr. Subash Chandra Martha - Associate Dean (Student Affairs)</h5>
+                            <h6 class="card-title">Dr. Subash Chandra Martha - Associate Dean (Student Affairs)</h6>
                         </div>
                     </div>
 
@@ -113,12 +112,12 @@
 
                         <img src="./images/Dr-Pushpendra-P-Singh.jpeg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Dr. Pushpendra P. Singh - Associate Dean (R&D)</h5>
+                            <h6 class="card-title">Dr. Pushpendra P. Singh - Associate Dean (R&D)</h6>
                         </div>
                     </div>
 
                 </div>
-            
+
 
             </div>
             <br>
@@ -134,7 +133,7 @@
 
                         <img src="./images/diksha-mittal.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Diksha Mittal - BOAA</h5>
+                            <h6 class="card-title">Diksha Mittal - BOAA</h6>
                         </div>
                     </div>
 
@@ -144,7 +143,7 @@
 
                         <img src="./images/raghav-verma.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Raghav Verma - President</h5>
+                            <h6 class="card-title">Raghav Verma - President</h6>
                         </div>
                     </div>
 
@@ -154,7 +153,7 @@
 
                         <img src="./images/manik-thapa.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Manik Thappa - BOSA</h5>
+                            <h6 class="card-title">Manik Thappa - BOSA</h6>
                         </div>
                     </div>
 
@@ -164,7 +163,7 @@
 
                         <img src="./images/tanmay-gambhir.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Tanmay Gambhir - BOHA</h5>
+                            <h6 class="card-title">Tanmay Gambhir - BOHA</h6>
                         </div>
                     </div>
 
@@ -174,7 +173,7 @@
 
                         <img src="./images/piyush-pratap-singh.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Piyush Pratap Singh - Phd Representative</h5>
+                            <h6 class="card-title">Piyush Pratap Singh - Phd Representative</h6>
                         </div>
                     </div>
 
@@ -184,7 +183,7 @@
 
                         <img src="./images/suvansh.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Suvansh - Ex-president</h5>
+                            <h6 class="card-title">Suvansh - Ex-president</h6>
                         </div>
                     </div>
 
@@ -194,7 +193,7 @@
 
                         <img src="./images/sanyukta.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Sanyukta - BOLA</h5>
+                            <h6 class="card-title">Sanyukta - BOLA</h6>
                         </div>
                     </div>
 
@@ -204,7 +203,7 @@
 
                         <img src="./images/ninad.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Ninad - BOCA</h5>
+                            <h6 class="card-title">Ninad - BOCA</h6>
                         </div>
                     </div>
 
@@ -225,7 +224,7 @@
 
                         <img src="./images/tushar.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Tushar Sharma</h5>
+                            <h6 class="card-title">Tushar Sharma</h6>
                         </div>
                     </div>
 
@@ -235,7 +234,7 @@
 
                         <img src="./images/arnav-kharbanda.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Arnav Kharbanda</h5>
+                            <h6 class="card-title">Arnav Kharbanda</h6>
                         </div>
                     </div>
 
@@ -245,7 +244,7 @@
 
                         <img src="./images/yashasav.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Yashasav</h5>
+                            <h6 class="card-title">Yashasav</h6>
                         </div>
                     </div>
 
@@ -255,7 +254,7 @@
 
                         <img src="./images/arpit.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Arpit Kumar Verma</h5>
+                            <h6 class="card-title">Arpit Kumar Verma</h6>
                         </div>
                     </div>
 
@@ -274,7 +273,7 @@
 
                         <img src="./images/chitrankar.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Chitrankar</h5>
+                            <h6 class="card-title">Chitrankar</h6>
                         </div>
                     </div>
 
@@ -284,7 +283,7 @@
 
                         <img src="./images/sneha.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Sneha Shah</h5>
+                            <h6 class="card-title">Sneha Shah</h6>
                         </div>
                     </div>
 
@@ -294,7 +293,7 @@
 
                         <img src="./images/devanshi.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Devanshi Sawhney</h5>
+                            <h6 class="card-title">Devanshi Sawhney</h6>
                         </div>
                     </div>
 
@@ -305,7 +304,7 @@
             <br>
             <br>
         </div>
-        
+
         <div class="container" id="o-content">
             <div class="team-heading">Content Team</div>
             <div class="row">
@@ -314,7 +313,7 @@
 
                         <img src="./images/tiya.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Tiya Jain</h5>
+                            <h6 class="card-title">Tiya Jain</h6>
                         </div>
                     </div>
 
@@ -324,7 +323,7 @@
 
                         <img src="./images/armaan.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Armaan Sharma</h5>
+                            <h6 class="card-title">Armaan Sharma</h6>
                         </div>
                     </div>
 
@@ -334,7 +333,7 @@
 
                         <img src="./images/vaishnavi.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Vaishnavi Baredar</h5>
+                            <h6 class="card-title">Vaishnavi Baredar</h6>
                         </div>
                     </div>
 
@@ -344,7 +343,7 @@
 
                         <img src="./images/chinmay.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Chinmay Agrawal</h5>
+                            <h6 class="card-title">Chinmay Agrawal</h6>
                         </div>
                     </div>
 
@@ -363,7 +362,7 @@
 
                         <img src="./images/vedant.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Vedant Sati</h5>
+                            <h6 class="card-title">Vedant Sati</h6>
                         </div>
                     </div>
 
@@ -373,7 +372,7 @@
 
                         <img src="./images/vasu.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Vasu Bansal</h5>
+                            <h6 class="card-title">Vasu Bansal</h6>
                         </div>
                     </div>
 
@@ -383,7 +382,7 @@
 
                         <img src="./images/rohan.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Rohan Nijhawan</h5>
+                            <h6 class="card-title">Rohan Nijhawan</h6>
                         </div>
                     </div>
 
@@ -393,7 +392,7 @@
 
                         <img src="./images/harjot.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Harjot Kaur</h5>
+                            <h6 class="card-title">Harjot Kaur</h6>
                         </div>
                     </div>
 
@@ -412,7 +411,7 @@
 
                         <img src="./images/vishal.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Vishal Agarwal</h5>
+                            <h6 class="card-title">Vishal Agarwal</h6>
                         </div>
                     </div>
 
@@ -422,7 +421,7 @@
 
                         <img src="./images/sagarika.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Sagarika Bhattacharjee</h5>
+                            <h6 class="card-title">Sagarika Bhattacharjee</h6>
                         </div>
                     </div>
 
@@ -432,7 +431,7 @@
 
                         <img src="./images/navneet.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Navneet Mishra</h5>
+                            <h6 class="card-title">Navneet Mishra</h6>
                         </div>
                     </div>
 
@@ -442,7 +441,7 @@
 
                         <img src="./images/simarpreet.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Simarpreet Kaur</h5>
+                            <h6 class="card-title">Simarpreet Kaur</h6>
                         </div>
                     </div>
 
@@ -452,7 +451,7 @@
 
                         <img src="./images/riya.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Riya Wadhwa</h5>
+                            <h6 class="card-title">Riya Wadhwa</h6>
                         </div>
                     </div>
 
@@ -462,7 +461,7 @@
 
                         <img src="./images/taranjot.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Taranjot Kaur</h5>
+                            <h6 class="card-title">Taranjot Kaur</h6>
                         </div>
                     </div>
 
@@ -472,7 +471,7 @@
 
                         <img src="./images/nazim.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Nazim Ali</h5>
+                            <h6 class="card-title">Nazim Ali</h6>
                         </div>
                     </div>
 
@@ -482,7 +481,7 @@
 
                         <img src="./images/sacchidanad.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Sacchidanad Kushwaha</h5>
+                            <h6 class="card-title">Sacchidanad Kushwaha</h6>
                         </div>
                     </div>
 
@@ -501,7 +500,7 @@
 
                         <img src="./images/riya-gupta.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Riya Gupta</h5>
+                            <h6 class="card-title">Riya Gupta</h6>
                         </div>
                     </div>
 
@@ -511,7 +510,7 @@
 
                         <img src="./images/hardik.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Hardik Rana</h5>
+                            <h6 class="card-title">Hardik Rana</h6>
                         </div>
                     </div>
 
@@ -521,7 +520,7 @@
 
                         <img src="./images/jashandeep.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Jashandeep Singh</h5>
+                            <h6 class="card-title">Jashandeep Singh</h6>
                         </div>
                     </div>
 
@@ -531,7 +530,7 @@
 
                         <img src="./images/ashu.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Ashutosh</h5>
+                            <h6 class="card-title">Ashutosh</h6>
                         </div>
                     </div>
 
@@ -550,7 +549,7 @@
 
                         <img src="./images/sagarika.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Sagarika Bhattacharjee</h5>
+                            <h6 class="card-title">Sagarika Bhattacharjee</h6>
                         </div>
                     </div>
 
@@ -560,7 +559,7 @@
 
                         <img src="./images/ayushi.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Ayushi Patel</h5>
+                            <h6 class="card-title">Ayushi Patel</h6>
                         </div>
                     </div>
 
@@ -570,7 +569,7 @@
 
                         <img src="./images/vrinda.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Vrinda Dua</h5>
+                            <h6 class="card-title">Vrinda Dua</h6>
                         </div>
                     </div>
 
@@ -580,7 +579,7 @@
 
                         <img src="./images/manan.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Manan Dangwal</h5>
+                            <h6 class="card-title">Manan Dangwal</h6>
                         </div>
                     </div>
 
@@ -590,7 +589,7 @@
 
                         <img src="./images/himanshu.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Himanshu</h5>
+                            <h6 class="card-title">Himanshu</h6>
                         </div>
                     </div>
 
@@ -600,7 +599,7 @@
 
                         <img src="./images/aryan.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Aryan Agrawal</h5>
+                            <h6 class="card-title">Aryan Agrawal</h6>
                         </div>
                     </div>
 
@@ -610,7 +609,7 @@
 
                         <img src="./images/prachi.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Prachi</h5>
+                            <h6 class="card-title">Prachi</h6>
                         </div>
                     </div>
 
@@ -629,7 +628,7 @@
 
                         <img src="./images/yatin.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Yatin Saini</h5>
+                            <h6 class="card-title">Yatin Saini</h6>
                         </div>
                     </div>
 
@@ -639,7 +638,7 @@
 
                         <img src="./images/rahul.png" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Rahul Vinod</h5>
+                            <h6 class="card-title">Rahul Vinod</h6>
                         </div>
                     </div>
 
@@ -694,7 +693,7 @@
                 </div>
             </footer>
         </div>
-</section>
+    </section>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
