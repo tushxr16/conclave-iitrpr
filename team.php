@@ -529,7 +529,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad">
 
-                        <img src="./images/noIMG.png" class="card-img-top">
+                        <img src="./images/ashu.jpg" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">Ashutosh</h5>
                         </div>
