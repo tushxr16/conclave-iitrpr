@@ -65,38 +65,20 @@
             </div>
         </div>
 
-        <div class="container" id="p-content">
-            <div class="team-heading">Patrons</div>
-            <div class="row" style="justify-content: center;">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-                        <img src="./images/rajeev-ahuja.jpeg" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Dr. Rajeev Ahuja - Director </h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-                        <img src="./images/dr-k-radhakrishnan.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Dr. K. Radhakrishnan- Chairperson, BoG</h6>
-                        </div>
-                    </div>
-
-                </div>
-
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-
         <div class="container" id="m-content">
             <div class="team-heading">Mentors</div>
             <div class="row" style="justify-content: center;">
+                
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/Dr-Pushpendra-P-Singh.jpeg" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Dr. Pushpendra P. Singh - Associate Dean (Research and Developement)</h6>
+                        </div>
+                    </div>
+
+                </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
 
@@ -107,16 +89,6 @@
                     </div>
 
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/Dr-Pushpendra-P-Singh.jpeg" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Dr. Pushpendra P. Singh - Associate Dean (R&D)</h6>
-                        </div>
-                    </div>
-
-                </div>
 
 
             </div>
@@ -125,15 +97,15 @@
             <br>
         </div>
 
-        <div class="container" id="c-content">
+        <div class="container" id="c-content" >
             <div class="team-heading">Core Team</div>
-            <div class="row">
+            <div class="row" style="justify-content: center;">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
 
                         <img src="./images/diksha-mittal.png" class="card-img-top">
                         <div class="card-body">
-                            <h6 class="card-title">Diksha Mittal - BOAA</h6>
+                            <h6 class="card-title">Diksha Mittal </h6>
                         </div>
                     </div>
 
@@ -143,27 +115,19 @@
 
                         <img src="./images/raghav-verma.png" class="card-img-top">
                         <div class="card-body">
-                            <h6 class="card-title">Raghav Verma - President</h6>
+                            <h6 class="card-title">Raghav Verma </h6>
                         </div>
                     </div>
 
                 </div>
+               
+               
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad">
 
-                        <img src="./images/manik-thapa.png" class="card-img-top">
+                        <img src="./images/suvansh.png" class="card-img-top">
                         <div class="card-body">
-                            <h6 class="card-title">Manik Thappa - BOSA</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/tanmay-gambhir.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Tanmay Gambhir - BOHA</h6>
+                            <h6 class="card-title">Suvansh Bhargava</h6>
                         </div>
                     </div>
 
@@ -173,41 +137,12 @@
 
                         <img src="./images/piyush-pratap-singh.png" class="card-img-top">
                         <div class="card-body">
-                            <h6 class="card-title">Piyush Pratap Singh - Phd Representative</h6>
+                            <h6 class="card-title">Piyush Pratap Singh</h6>
                         </div>
                     </div>
 
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/suvansh.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Suvansh - Ex-president</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/sanyukta.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Sanyukta - BOLA</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/ninad.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Ninad - BOCA</h6>
-                        </div>
-                    </div>
-
-                </div>
+    
 
             </div>
             <br>
@@ -217,8 +152,87 @@
 
         <div class="container" id="o-content">
             <div class="team-heading">Organizing Team</div>
-            <div class="team-heading">Website Team</div>
-            <div class="row">
+            <div class="row" style="justify-content: center;">
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad w-75">
+
+                        <img src="./images/riya-gupta.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Riya Gupta</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/hardik.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Hardik Rana</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/ashu.jpg" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Ashutosh Patil</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/harjot.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Harjot Kaur</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/sagarika.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Sagarika Bhattacharjee</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/prachi.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Prachi</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad w-75">
+
+                        <img src="./images/tiya.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Tiya Jain</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/himanshu.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Himanshu Parganiha</h6>
+                        </div>
+                    </div>
+
+                </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
 
@@ -229,6 +243,111 @@
                     </div>
 
                 </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad w-75">
+
+                        <img src="./images/chitrankar.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Chitrankar</h6>
+                        </div>
+                    </div>
+
+                </div>
+               
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/armaan.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Armaan Sharma</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/chinmay.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Chinmay Agrawal</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad w-75">
+
+                        <img src="./images/vedant.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Vedant Sati</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/vasu.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Vasu Bansal</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/jashandeep.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Jashandeep Singh</h6>
+                        </div>
+                    </div>
+
+                </div>
+               
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/ayushi.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Ayushi Patel</h6>
+                        </div>
+                    </div>
+
+                </div>
+                
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/aryan.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Aryan Agrawal</h6>
+                        </div>
+                    </div>
+
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad w-75">
+
+                        <img src="./images/yatin.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Yatin Saini</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/rahul.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Rahul Vinod</h6>
+                        </div>
+                    </div>
+
+                </div>
+
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad">
 
@@ -244,7 +363,7 @@
 
                         <img src="./images/yashasav.png" class="card-img-top">
                         <div class="card-body">
-                            <h6 class="card-title">Yashasav</h6>
+                            <h6 class="card-title">Yashasav Prajapati</h6>
                         </div>
                     </div>
 
@@ -255,25 +374,6 @@
                         <img src="./images/arpit.png" class="card-img-top">
                         <div class="card-body">
                             <h6 class="card-title">Arpit Kumar Verma</h6>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-        <div class="container" id="o-content">
-            <div class="team-heading">Designing Team</div>
-            <div class="row" style="justify-content: center;">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/chitrankar.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Chitrankar</h6>
                         </div>
                     </div>
 
@@ -298,81 +398,12 @@
                     </div>
 
                 </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-
-        <div class="container" id="o-content">
-            <div class="team-heading">Content Team</div>
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/tiya.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Tiya Jain</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/armaan.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Armaan Sharma</h6>
-                        </div>
-                    </div>
-
-                </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad">
 
                         <img src="./images/vaishnavi.png" class="card-img-top">
                         <div class="card-body">
                             <h6 class="card-title">Vaishnavi Baredar</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/chinmay.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Chinmay Agrawal</h6>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-        <div class="container" id="o-content">
-            <div class="team-heading">Moderators</div>
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/vedant.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Vedant Sati</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/vasu.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Vasu Bansal</h6>
                         </div>
                     </div>
 
@@ -390,22 +421,23 @@
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad">
 
-                        <img src="./images/harjot.png" class="card-img-top">
+                        <img src="./images/manan.png" class="card-img-top">
                         <div class="card-body">
-                            <h6 class="card-title">Harjot Kaur</h6>
+                            <h6 class="card-title">Manan Dangwal</h6>
                         </div>
                     </div>
 
                 </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
 
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-        <div class="container" id="o-content">
-            <div class="team-heading">Phd Members</div>
-            <div class="row">
+                        <img src="./images/vrinda.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Vrinda Dua</h6>
+                        </div>
+                    </div>
+
+                </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
 
@@ -416,16 +448,7 @@
                     </div>
 
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/sagarika.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Sagarika Bhattacharjee</h6>
-                        </div>
-                    </div>
-
-                </div>
+                
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad">
 
@@ -486,169 +509,14 @@
                     </div>
 
                 </div>
+                
 
             </div>
             <br>
             <br>
             <br>
         </div>
-        <div class="container" id="o-content">
-            <div class="team-heading">Hospitality Team</div>
-            <div class="row" style="justify-content: center;">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
 
-                        <img src="./images/riya-gupta.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Riya Gupta</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/hardik.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Hardik Rana</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/jashandeep.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Jashandeep Singh</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/ashu.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Ashutosh</h6>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-        <div class="container" id="o-content">
-            <div class="team-heading">Minutes Team and Doubts Clearing Team</div>
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/sagarika.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Sagarika Bhattacharjee</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/ayushi.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Ayushi Patel</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/vrinda.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Vrinda Dua</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/manan.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Manan Dangwal</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/himanshu.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Himanshu</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/aryan.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Aryan Agrawal</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/prachi.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Prachi</h6>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
-        <div class="container" id="o-content">
-            <div class="team-heading">Photography and Video-Editing Team</div>
-            <div class="row" style="justify-content: center;">
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad w-75">
-
-                        <img src="./images/yatin.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Yatin Saini</h6>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
-                    <div class="card card-body flex-fill card-custom-ad">
-
-                        <img src="./images/rahul.png" class="card-img-top">
-                        <div class="card-body">
-                            <h6 class="card-title">Rahul Vinod</h6>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <br>
-            <br>
-            <br>
-        </div>
     </section>
 
 
