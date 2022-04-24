@@ -41,9 +41,6 @@
                         <a aria-current="page" href="#home" class="gradient-box-outline gradient-box">Home</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a aria-current="page" href="#about" class="gradient-box-outline gradient-box">About&nbspUs</a>
-                    </li>
-                    <li class="nav-item my-3">
                         <a href="#prelude" class="gradient-box-outline">Prelude</a>
                     </li>
                     <li class="nav-item my-3">
@@ -67,25 +64,13 @@
                 <div class="col-md-5 cent w3-animate-left">
                     <div class="heading my-3">Parley, Pioneer And Prosper</div>
                     <div class="my-3" style="font-size: large;">
-                        Leadership Summit 2022: A step towards building a forum to delimitate the Inter-IIT boundaries. We envision involving the student leaders to start conversations and the policymakers to build a conducive environment that will benefit the country in the long run.
+                        Leadership Conclave 2022: A step towards building a forum to delimitate the Inter-IIT boundaries. We envision involving the student leaders to start conversations and the policymakers to build a conducive environment that will benefit the country in the long run.
                     </div>
                     <div class="dates-layout">DATES: 13-15 May '22</div>
                     <div class="my-3" style="font-size:x-large;" id="theme">
                         <b>Theme</b> : To bridge the gap between graduate and undergraduate technocrats
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section id="about" class="background-img py-5">
-        <div class="container-fluid">
-            <div class="row">About Us</div>
-            <div class="row">
-                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./mentors.php">About IIT Ropar</button></div>
-                <div class="col-md-4 btn btn-primary px-2"><a href="./patrons.php">Messages from our Patrons</a></div>
-                <div class="col-md-4 btn btn-primary px-2"><a href="#">About Ropar</a></div>
             </div>
         </div>
     </section>
@@ -149,14 +134,14 @@
                     <div class="sub-heading">
                         We envision discussing the following aspects
                     </div>
-                    <div class="my-3 agendaBlock1" style="background: #00A8C6; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                        <div class="outer-circle11"><div class="inner-circle1"><div class="inner-circle21"><p class="number1">01</p></div></div></div><p class="text1"> Measures can be taken to encourage more and more students to be involved in cultural activities?</p>
+                    <div class="my-3 agendaBlock" style="background: #00A8C6; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
+                        What measures can be taken to encourage more and more students to be involved in cultural activities?
                     </div>
-                    <div class="my-3 agendaBlock1" style="background: #8F77B4; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                        <div class="outer-circle12"><div class="inner-circle1"><div class="inner-circle22"><p class="number1">02</p></div></div></div><p class="text1"> Components of our current organizations (societies and clubs) need to change considering this online to offline transition again?</p>
+                    <div class="my-3 agendaBlock" style="background: #8F77B4; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
+                        What components of our current organizations (societies and clubs) need to change considering this online to offline transition again?
                     </div>
-                    <div class="my-3 agendaBlock1" style="background: #757284; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                        <div class="outer-circle13"><div class="inner-circle1"><div class="inner-circle23"><p class="number1">03</p></div></div></div><p class="text1">In what ways can we restore the gap between specific batches owing to the pandemic?</p>
+                    <div class="my-3 agendaBlock" style="background: #757284; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
+                        In what ways can we restore the gap between specific batches owing to the pandemic?
                     </div>
                 </div>
             </div>
@@ -167,35 +152,26 @@
                         <div class="heading my-3" style="text-overflow: hidden">
                             MENTORING PROGRAMS OF ENGINEERING STUDENTS BY IIT STUDENT COUNCILS </div>
                     </div>
-                    <div class="row justify-content-center" >
-                        <div class="col-md-5" style = "width: 100%;" >
-                            <p style="text-align: justify;">
-                            Not all students are fortunate enough to experience the sophisticated professionalism across all fronts that we do. This leads to a growing disparity between the skills levels and future prospects of scholars.
-                            The onus Of trying to bridge this gap falls on us and only by collaborating and exchanging ideas, we can provide equal footing and opportunities to many who deserve it. Mentorship by Phd students to these students from nearby colleges is one of the Leads. The summit aims to bring forth this problem :
-                            </p>
-                        </div>
-                        <!-- <div class="col-md-5" style = "width: 50%;">
-                            <p style="text-align: justify;">
-                            </p>
-                        </div> -->
+                    <div class="w3-animate-right row justify-content-evenly">
+                        <p class="col-md-5" style="text-align: justify;"> Not all students are fortunate enough to experience the sophisticated professionalism across all fronts that we do. This leads to a growing disparity between the skills levels and future prospects of scholars.</p>
+                        <p class="col-md-5" style="text-align: justify;"> The onus Of trying to bridge this gap falls on us and only by collaborating and exchanging ideas, we can provide equal footing and opportunities to many who deserve it. Mentorship by Phd students to these students from nearby colleges is one of the Leads. The conclave aims to bring forth this problem :</p>
                     </div>
-
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
-                        <div id="01" class="my-3 agendaBlock square-45-1" style="background: #01AAB1; color: white; display: flex; align-items: center; filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px); margin-right: 2rem;">
+                        <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center; filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How can student councils provide guidance to some nearby colleges and universities about the approaches and conducts in the industry, and creation of a conducive college culture?
                         </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
-                        <div id="02" class="my-3 agendaBlock square-45-2" style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px); margin-left: 2rem;">
+                        <div class="my-3 agendaBlock" style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             Will Incentivising PhD students to promote and mentor students in technological literacy, development in skills, and an overall evolution in the quality of individuals of a nearby institution be a good idea?
                         </div>
                     </div>
                 </div>
-                <div  class="row justify-content-center">
+                <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-bottom">
-                        <div id="03" class="my-3 agendaBlock square-45-3" style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                        <div class="my-3 agendaBlock" style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How to Increase engagement and begin a real turnaround by starting collaborative interdisciplinary projects with other colleges and universities?
                         </div>
                     </div>
@@ -226,7 +202,7 @@
                 <div class="row justify-content-center">
                     <div class="col-md-5">
                         <div class="my-3">
-                            At this summit we are seeking ways to bring these two student groups closer together:
+                            At this conclave we are seeking ways to bring these two student groups closer together:
                         </div>
                     </div>
                     <div class="col-md-5">
@@ -235,15 +211,14 @@
                 <div class="row justify-content-center">
                     <div class="col-md-5">
                         <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            In what further ways can this bond be strengthened that both learn something from each other?
-                        </div>
+                            In what further ways can this bond be strengthened that both learn something from each other? </div>
                         <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             Will creating a mandatory interdisciplinary project after the second year so as to facilitate more communication and interaction between the two groups help achieve our goals?
                         </div>
                     </div>
                     <div class="col-md-5">
                         <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            What are the improvements and suggestions in the current B-Tech. Project system?
+                            What are the improvements and suggestions in the current BTP Project system?
                         </div>
                         <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How will the mentorship be done by the already busy and occupied research scholars?
@@ -252,59 +227,38 @@
                 </div>
             </div>
             <!-- AGENDA 4 -->
-            <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-4.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
+            <div class="row justify-content-center my-5" style="background: url('./images/agenda-4.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
                 <div class="col-md-10 my-5">
-                    <div class="w3-animate-left" >
-                        <div class="heading my-3 justify-content-center" style="display: flex;text-overflow: hidden">
+                    <div class="justify-content-start w3-animate-left">
+                        <div class="heading my-3" style="text-overflow: hidden">
                             PREPARE UG STUDENTS FOR PLACEMENTS IN CORE COMPANIES
                         </div>
                     </div>
-
-                    <div class="row justify-content-evenly">
-                        <div class="col-md-5" style = "width: 50%;" >
-                            <p style="text-align: justify;">
-                                We've seen a major movement in engineering students' interests over the previous few decades, from core to SDE and non-core positions. Despite being a fascinating and insightful area, the core industry is short on competent workforce due to dwindling youth demand for possibilities. This could be attributed to various reasons like -
-                                <ul>
-                                    <li>
-                                    Students' lack of awareness about opportunities in core fields
-                                    </li>
-                                    <li>
-                                    Less salary packages
-                                    </li>
-                                    <li>
-                                    Lack of facilities and incentives as compared to software engineers.
-                                    </li>
-                                </ul>
-                            </p>
-                        </div>
-                        <div class="col-md-5" style = "width: 50%;" >
-                            <p style="text-align: justify;">
-                                The necessity of the hour is to elevate and promote the benefits of the core industry, as well as the opportunities that exist inside it. We need to reclaim our place in the core industry by changing students' and hiring employers' perspectives and strengthening our “Make in India” policy. As a result, the main focus of this summit will be on the following points:
-                            </p>
-                        </div>
+                    <div class="w3-animate-right">
+                        <p class="my-5" style="text-align: justify;">
+                            We've seen a major movement in engineering students' interests over the previous few decades, from core to SDE and non-core positions. Despite being a fascinating and insightful area, the core industry is short on competent workforce due to dwindling youth demand for possibilities. This could be attributed to various reasons like - students' lack of awareness about opportunities in core fields, less salary packages, lack of facilities and incentives as compared to software engineers.
+                        </p>
+                        <p style="text-align: justify;">
+                            The necessity of the hour is to elevate and promote the benefits of the core industry, as well as the opportunities that exist inside it. We need to reclaim our place in the core industry by changing students' and hiring employers' perspectives and strengthening our “Make in India” policy. As a result, the main focus of this summit will be on the following points:
+                        </p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
-                        <div class="my-3 agendaBlock3" style="background: #7F62A0; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            <div class="outer-circle">
-                                <div class="inner-circle">
-                                    <p class="number">01</p>
-                                </div>
-                            </div> 
-                            <p class="text""> How can the immense potential of the curious minds be guided and motivated in the proper direction?</p>
+                        <div class="my-3 agendaBlock" style="background: #7F62A0; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                            How can the immense potential of the curious minds be guided and motivated in the proper direction?
                         </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
-                        <div class="my-3 agendaBlock3" style="background: #7ABBF8; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                        <div class="outer-circle"><div class="inner-circle"><p class="number">02</p></div></div> <p class="text"> What steps should be implemented in collaboration with government authorities to pique people's interest in this field?</p>
+                        <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                            What steps should be implemented in collaboration with government authorities to pique people's interest in this field?
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-bottom">
-                        <div class="my-3 agendaBlock3" style="background: #4AC8AC; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                        <div class="outer-circle"><div class="inner-circle"><p class="number">03</p></div></div><p class="text"> What all can be negotiated with the core companies in order to attract them to hire more people with good packages?</p>
+                        <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                            What all can be negotiated with the core companies in order to attract them to hire more people with good packages?
                         </div>
                     </div>
                 </div>
@@ -324,16 +278,16 @@
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div id = "" class="col-md-5 w3-animate-left">
-                        <div class="my-3  bell-1" style="background: #01AAB1; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                    <div class="col-md-5 w3-animate-left">
+                        <div class="my-3 agendaBlock" style="background: #01AAB1; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             Do highly competent workers send money home, invest, and share their knowledge? If not, what needs to be done to ensure that this occurs? </div>
-                        <div class="my-3  bell-2" style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                        <div class="my-3 agendaBlock" style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             What do we know about the fiscal and production externalities of brain drain, and isn't it time we returned the favor to the society that helped us develop our moral responsibility? </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
-                        <div class="my-3  bell-3" style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                        <div class="my-3 agendaBlock" style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             What are the ramifications of such migration, particularly on the educational system and the country's development? </div>
-                        <div class="my-3  bell-4" style="background: #6B83AF; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                        <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How can the startup culture be resurrected in India so that Indians, rather than becoming CEOs of large foreign corporations, form MNCs in their own country? </div>
                     </div>
                 </div>
