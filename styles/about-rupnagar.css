@@ -1,0 +1,12 @@
+.top-margin-ad
+{
+	margin-top:7rem;
+}
+.inner-wrap
+{
+	text-align:center;
+	margin:0rem 4rem 4rem 4rem;
+	padding:3rem 3rem 3rem 3rem;
+	background: rgba(160, 205, 242, 0.5);
+	border-radius:2rem;
+}

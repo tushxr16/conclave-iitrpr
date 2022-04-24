@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap'); */
 
 *{
   font-family: 'Poppins';
@@ -103,8 +104,8 @@ body{
 .background-img {
   background: url("../images/home-bg2.png");
   background-position: center;
-  height: 100vh;
-  width: 100vw;
+  /* height: 100vh; */
+  /* width: 100vw; */
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -121,13 +122,12 @@ body{
   align-content: center;
   justify-content: center;
   align-items: center;
-  justify-items: start;
+  justify-items: center;
 }
 
 .heading {
   font-size: 2rem;
   line-height: 2rem;
-  font-weight: 900;
 }
 
 .sub-heading {
@@ -139,7 +139,7 @@ body{
   background: linear-gradient(90.71deg, #73e0a9 0%, #5b68df 100%);
   border-radius: 2rem;
   justify-content: center;
-  margin-top: 3rem;
+  margin-top: 1rem;
   align-items: center;
   padding: 0.6rem 2.4rem;
   color: white !important;
@@ -157,8 +157,8 @@ body{
 #about{
   background: url('../images/bg-about.png');
   background-repeat: no-repeat;
-  height: fit-content;
-  background-size: cover;
+  height: 50vh;
+  background-size:cover;
 }
 
 /* .btn{
@@ -178,6 +178,8 @@ body{
 } */
 
 
+
+/* About Us ends */
 
 
 /* Agenda */
@@ -675,7 +677,8 @@ body{
   }
   .text{
     margin-left: 2rem;
-    font-size:0.3rem !important;
+    font-size: 1rem;
+    /* font-size:0.3rem !important; */
   }
   .outer-circle{
     height: 1rem;

@@ -41,7 +41,7 @@
                         <a aria-current="page" href="#home" class="gradient-box-outline gradient-box">Home</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a aria-current="page" href="#about" class="gradient-box-outline gradient-box">About&nbspUs</a>
+                        <a href="#about" class="gradient-box-outline ">About&nbspUs</a>
                     </li>
                     <li class="nav-item my-3">
                         <a href="#prelude" class="gradient-box-outline">Prelude</a>
@@ -62,15 +62,15 @@
 
     <section id="home" class="background-img py-5">
         <div class="container-fluid">
-            <div class="row justify-content-evenly my-5">
-                <div class="col-md-5 cent w3-animate-right"></div>
-                <div class="col-md-5 cent w3-animate-left">
+            <div class="row my-5 py-2" >
+                <div class="col-md-5 cent w3-animate-right" ></div>
+                <div class="col-md-7 cent w3-animate-right py-5" style = "display: flex; justify-content: center; flex-direction: column;">
                     <div class="heading my-3">Parley, Pioneer And Prosper</div>
-                    <div class="my-3" style="font-size: large;">
+                    <div class="my-3" style="font-size: medium;text-align: center;">
                         Leadership Summit 2022: A step towards building a forum to delimitate the Inter-IIT boundaries. We envision involving the student leaders to start conversations and the policymakers to build a conducive environment that will benefit the country in the long run.
                     </div>
-                    <div class="dates-layout">DATES: 13-15 May '22</div>
-                    <div class="my-3" style="font-size:x-large;" id="theme">
+                    <div class="dates-layout" ">DATES: 13-15 May '22</div>
+                    <div class="my-3" style="font-size:medium;" id="theme">
                         <b>Theme</b> : To bridge the gap between graduate and undergraduate technocrats
                     </div>
                 </div>
@@ -83,9 +83,10 @@
         <div class="container-fluid">
             <div class="row">About Us</div>
             <div class="row">
-                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./mentors.php">About IIT Ropar</button></div>
-                <div class="col-md-4 btn btn-primary px-2"><a href="./patrons.php">Messages from our Patrons</a></div>
-                <div class="col-md-4 btn btn-primary px-2"><a href="#">About Ropar</a></div>
+                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./aboutIIT.php">About IIT Ropar</button></div>
+                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./mentors.php">Patrons' Corner</button></div>
+                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./mentors.php">Mentors' Corner</button></div>
+                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./about-rupnagar.php">About Rupnagar</button></div>
             </div>
         </div>
     </section>
@@ -161,7 +162,7 @@
                 </div>
             </div>
             <!-- AGENDA 2 -->
-            <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
+            <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-2.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
                 <div class="col-md-10 my-5">
                     <div class="justify-content-start w3-animate-left">
                         <div class="heading my-3" style="text-overflow: hidden">
@@ -169,7 +170,7 @@
                     </div>
                     <div class="row justify-content-center" >
                         <div class="col-md-5" style = "width: 100%;" >
-                            <p style="text-align: justify;">
+                            <p style="text-align: ;">
                             Not all students are fortunate enough to experience the sophisticated professionalism across all fronts that we do. This leads to a growing disparity between the skills levels and future prospects of scholars.
                             The onus Of trying to bridge this gap falls on us and only by collaborating and exchanging ideas, we can provide equal footing and opportunities to many who deserve it. Mentorship by Phd students to these students from nearby colleges is one of the Leads. The summit aims to bring forth this problem :
                             </p>
