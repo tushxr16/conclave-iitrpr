@@ -1,12 +1,42 @@
 .top-margin-ad
 {
-	margin-top:7rem;
+	margin-top:5rem;
 }
+
+.col-md-6{
+	display: flex;
+	align-items: center;
+
+}
+
+#image-carousel{
+	margin-top: -3rem;
+}
+
 .inner-wrap
 {
 	text-align:center;
-	margin:0rem 4rem 4rem 4rem;
-	padding:3rem 3rem 3rem 3rem;
+	margin:0rem 3rem 3rem 3rem;
+	padding:2rem;
 	background: rgba(160, 205, 242, 0.5);
 	border-radius:2rem;
+}
+
+@media screen and (max-width: 768px) {
+	.row{
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	#image-carousel{
+		margin: 1rem;
+	}
+	.inner-wrap{
+		margin: 1rem;
+	}
+}
+
+@media screen and (max-width: 390px) {
+	.inner-wrap{
+		padding: 2rem;
+	}
 }

@@ -63,23 +63,25 @@
             </div>
         </div>
     </nav>
+
+
+
 <div class="container-fluid top-margin-ad">
 	<div class="row">
 		<div class="col-md-6">
 			<div class="inner-wrap">
-                <img src="images/iitrpr whiteee.png" alt="" style="width:18rem;height:18rem;"> 
-				<h1>Indian Institute Of Technology 
-Ropar</h1>
+                <img src="images/iitrpr_white.png" alt="" style="width:10rem;height:10rem;"> 
+				<h1>Indian Institute Of Technology Ropar</h1>
 				<br>
 				<p>
-                Indian Institute of Technology Ropar, is one of the 8 new IITs setup to augment the reach and quality of technical education. IIT Ropar has been recognized as an institute of national importance and is well known globally for its advanced research activities.
+                	Indian Institute of Technology Ropar, is one of the 8 new IITs setup to augment the reach and quality of technical education. IIT Ropar has been recognized as an institute of national importance and is well known globally for its advanced research activities.
 					<br>
 					<br>
 					Indian Institute of Technology Ropar, is one of the 8 new IITs setup to augment the reach and quality of technical education. IIT Ropar has been recognized as an institute of national importance and is well known globally for its advanced research activities.
 				</p>
 			</div>
 		</div>
-		<div class="col-md-6">
+		<div id= "image-carousel" class="col-md-6">
 			<!--Carousel-->
 			<div id="carouselHome" class="carousel slide carousel-light" data-bs-ride="carousel">
 			  <div class="carousel-indicators">
@@ -94,29 +96,21 @@ Ropar</h1>
 			  </div>
 			  <div class="carousel-inner">
 				<div class="carousel-item active" data-bs-interval="3000">
-				  <img src="images/yashasav.png" class="d-block w-100" alt="...">
+				  <img src="images/img1.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/arpit.png" class="d-block w-100" alt="...">
+				  <img src="images/img2.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/arpit.png" class="d-block w-100" alt="...">
+				  <img src="images/img3.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/arpit.png" class="d-block w-100" alt="...">
+				  <img src="images/img4.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/arpit.png" class="d-block w-100" alt="...">
+				  <img src="images/img5.jpg" class="d-block w-100" alt="...">
 				</div>
-				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/arpit.png" class="d-block w-100" alt="...">
-				</div>
-				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/arpit.png" class="d-block w-100" alt="...">
-				</div>
-				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/arpit.png" class="d-block w-100" alt="...">
-				</div>
+				
 			  </div>
 			  <button class="carousel-control-prev" type="button" data-bs-target="#carouselHome" data-bs-slide="prev">
 				<span class="carousel-control-prev-icon" aria-hidden="true"></span>

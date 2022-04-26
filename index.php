@@ -50,7 +50,7 @@
                         <a href="#agendas" class="gradient-box-outline">Agendas</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a href="#agendas" class="gradient-box-outline">Schedule</a>
+                        <a href="schedule.php" class="gradient-box-outline">Schedule</a>
                     </li>
                     <li class="nav-item my-3">
                         <a href="team.php#team" class="gradient-box-outline">Team</a>
@@ -242,7 +242,9 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
+
                         <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                        
                             In what further ways can this bond be strengthened that both learn something from each other?
                         </div>
                         <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
@@ -376,14 +378,14 @@
                         <div class="col-lg-4 col-md-4">
                             <h5 class="text-dark mb-3"><i class="fa fa-phone"></i> Call</h5>
                             <ul class="list-unstyled text-muted">
-                                <li> Diksha +91-9416-914467</li>
-                                <li> Prachi +91-8527-997951 </li>
+                                <li> Diksha <a style="text-decoration:none;"href="tel:+919416914467">+91-9416-914467</a></li>
+                                <li> Prachi <a href="tel:+918527997951" style="text-decoration:none;">+91-8527-997951</a></li>
                             </ul>
                         </div>
 
                         <div class="col-lg-4 col-md-4">
                             <h5 class="text-dark mb-3"><i class="fa fa-envelope"></i> Mail</h5>
-                            <p class="small text-dark">leadership.summit@iitrpr.ac.in</p>
+                            <p class="small text-dark"> <a style="text-decoration:none;" href="mailto:leadership.summit@iitrpr.ac.in"> leadership.summit@iitrpr.ac.in</a></p>
                         </div>
                     </div>
                 </div>
