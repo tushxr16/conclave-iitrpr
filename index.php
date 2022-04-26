@@ -50,6 +50,9 @@
                         <a href="#agendas" class="gradient-box-outline">Agendas</a>
                     </li>
                     <li class="nav-item my-3">
+                        <a href="#agendas" class="gradient-box-outline">Schedule</a>
+                    </li>
+                    <li class="nav-item my-3">
                         <a href="team.php#team" class="gradient-box-outline">Team</a>
                     </li>
                     <li class="nav-item my-3">
@@ -81,12 +84,15 @@
 
     <section id="about" class="background-img py-5">
         <div class="container-fluid">
-            <div class="row">About Us</div>
-            <div class="row">
-                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./aboutIIT.php">About IIT Ropar</button></div>
-                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./mentors.php">Patrons' Corner</button></div>
-                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./mentors.php">Mentors' Corner</button></div>
-                <div class="col-md-4 px-2"><button class="btn btn-primary" href="./about-rupnagar.php">About Rupnagar</button></div>
+            <div class="row" id="about-head">About Us</div>
+            <div class="row" style = "display: flex; justify-content:center; text-align: center; margin-top: 2rem;color: rgba(0, 0, 0, 0.5);">
+            With passion in our hearts, and a smile on our face we aim to make the world a better place. <br> At IIT Ropar we aim to create not just engineers, but future leaders of our nation
+            </div>
+            <div id = "links">
+                <a href="aboutIIT.php">About IIT Ropar</a>
+                <a href="patrons.php">Patrons' Corner</a>
+                <a href="mentors.php">Mentors' Corner</a>
+                <a href="about-rupnagar.php">About Rupnagar</a>
             </div>
         </div>
     </section>
@@ -144,19 +150,19 @@
                     <p class="my-5" style="text-align: justify;">
                         It is quite evident that after the outbreak of the COVID-19 virus, it is challenging to return to the world as it was before. Therefore, putting efforts in the right direction to revive the lost offline experiences is crucial. Even though the virtual world has its advantages, we can't deny the importance of classroom teaching, peer interactions, and senior-junior involvement. This lack of hands-on experience has deteriorated the social aspect of our lives.
                     </p>
-                    <img src="./images/agenda-1.png" class="agenda-img-resp" style="height:50vh; object-fit: contain"></img>
+                    <img src="./images/agenda-1.png" class="agenda-img-resp"></img>
                 </div>
                 <div class="col-md-5 w3-animate-right" style="display: flex; flex-direction: column; align-items: center;">
                     <div class="sub-heading">
                         We envision discussing the following aspects
                     </div>
-                    <div class="my-3 agendaBlock1" style="background: #00A8C6; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
+                    <div class="agendaBlock1" style="background: #00A8C6; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
                         <div class="outer-circle11"><div class="inner-circle1"><div class="inner-circle21"><p class="number1">01</p></div></div></div><p class="text1"> Measures can be taken to encourage more and more students to be involved in cultural activities?</p>
                     </div>
-                    <div class="my-3 agendaBlock1" style="background: #8F77B4; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
+                    <div class="agendaBlock1" style="background: #8F77B4; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
                         <div class="outer-circle12"><div class="inner-circle1"><div class="inner-circle22"><p class="number1">02</p></div></div></div><p class="text1"> Components of our current organizations (societies and clubs) need to change considering this online to offline transition again?</p>
                     </div>
-                    <div class="my-3 agendaBlock1" style="background: #757284; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
+                    <div class="agendaBlock1" style="background: #757284; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
                         <div class="outer-circle13"><div class="inner-circle1"><div class="inner-circle23"><p class="number1">03</p></div></div></div><p class="text1">In what ways can we restore the gap between specific batches owing to the pandemic?</p>
                     </div>
                 </div>
@@ -166,31 +172,32 @@
                 <div class="col-md-10 my-5">
                     <div class="justify-content-start w3-animate-left">
                         <div class="heading my-3" style="text-overflow: hidden">
-                            MENTORING PROGRAMS OF ENGINEERING STUDENTS BY IIT STUDENT COUNCILS </div>
+                        Mentorship Programs by the IIT Fraternity
+ </div>
                     </div>
                     <div class="row justify-content-center" >
                         <div class="col-md-5" style = "width: 100%;" >
-                            <p style="text-align: ;">
-                            Not all students are fortunate enough to experience the sophisticated professionalism across all fronts that we do. This leads to a growing disparity between the skills levels and future prospects of scholars.
-                            The onus Of trying to bridge this gap falls on us and only by collaborating and exchanging ideas, we can provide equal footing and opportunities to many who deserve it. Mentorship by Phd students to these students from nearby colleges is one of the Leads. The summit aims to bring forth this problem :
+                            <p class = "my-2" style="text-align: ;">
+                            Not all students are fortunate enough to experience the sophisticated professionalism across all fronts that we do. This leads to a growing disparity between the skills levels and future prospects of scholars. This hindrance is especially faced by students from tier-2 and tier-3 colleges across the country. 
                             </p>
+                            <p class = "my-2" style ="text-align:;">
+                            The onus of trying to bridge this gap falls on us and only by collaborating and exchanging ideas, we can provide equal footing and opportunities to many who deserve it. Mentorship by PHD scholars to these students from nearby colleges is one of the leads. The conclave aims to bring forth this problem :</p>
+
                         </div>
-                        <!-- <div class="col-md-5" style = "width: 50%;">
-                            <p style="text-align: justify;">
-                            </p>
-                        </div> -->
                     </div>
 
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
                         <div id="01" class="my-3 agendaBlock square-45-1" style="background: #01AAB1; color: white; display: flex; align-items: center; filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px); margin-right: 2rem;">
-                            How can student councils provide guidance to some nearby colleges and universities about the approaches and conducts in the industry, and creation of a conducive college culture?
+                        How can the institutes adopt a few nearby colleges and universities, and assist them with the guidance about the approaches and conducts in the industry, as well as creation of a conducive college culture?
+
                         </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
                         <div id="02" class="my-3 agendaBlock square-45-2" style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px); margin-left: 2rem;">
-                            Will Incentivising PhD students to promote and mentor students in technological literacy, development in skills, and an overall evolution in the quality of individuals of a nearby institution be a good idea?
+                        How to increase engagement and begin a real turnaround by starting collaborative interdisciplinary projects, conducting conjoint club sessions, sharing access of state of the art labs and technologies with other colleges and universities?
+
                         </div>
                     </div>
                 </div>
@@ -205,16 +212,16 @@
 
             <!-- AGENDA 3 -->
             <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
-                <div class="col-md-10 my-5">
+                <div class="col-md-10 my-4">
                     <div class="justify-content-start w3-animate-left">
-                        <div class="heading my-3" style="text-overflow: hidden">
+                        <div class="heading my-1" style="text-overflow: hidden">
                             MENTORING OF UG STUDENTS BY PHD STUDENTS (ACADEMICS, RESEARCH AND EXTRA CURRICULAR)
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
-                        <p style="text-align: justify;">
+                        <p style="text-align: justify;" >
                             B. Tech. students have a lot to learn, from their academics to general career advice – and a right mentor can indeed make or break their student life. A research scholar can very well guide their junior B. Tech. students, being more experienced and used to the college system.
                         </p>
                     </div>
@@ -226,7 +233,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
-                        <div class="my-3">
+                        <div class="my-2">
                             At this summit we are seeking ways to bring these two student groups closer together:
                         </div>
                     </div>
@@ -253,17 +260,17 @@
                 </div>
             </div>
             <!-- AGENDA 4 -->
-            <div class="row justify-content-evenly my-5" style="background: url('./images/agenda-4.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
+            <div class="row justify-content-evenly my-5" style="background: url('./images/abstract.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
                 <div class="col-md-10 my-5">
                     <div class="w3-animate-left" >
-                        <div class="heading my-3 justify-content-center" style="display: flex;text-overflow: hidden">
+                        <div class="heading my-3" style="display: flex;text-overflow: hidden">
                             PREPARE UG STUDENTS FOR PLACEMENTS IN CORE COMPANIES
                         </div>
                     </div>
 
                     <div class="row justify-content-evenly">
                         <div class="col-md-5" style = "width: 50%;" >
-                            <p style="text-align: justify;">
+                            <p class="my-3" style="text-align: justify;">
                                 We've seen a major movement in engineering students' interests over the previous few decades, from core to SDE and non-core positions. Despite being a fascinating and insightful area, the core industry is short on competent workforce due to dwindling youth demand for possibilities. This could be attributed to various reasons like -
                                 <ul>
                                     <li>
@@ -279,7 +286,7 @@
                             </p>
                         </div>
                         <div class="col-md-5" style = "width: 50%;" >
-                            <p style="text-align: justify;">
+                            <p class="my-3" style="text-align: justify;">
                                 The necessity of the hour is to elevate and promote the benefits of the core industry, as well as the opportunities that exist inside it. We need to reclaim our place in the core industry by changing students' and hiring employers' perspectives and strengthening our “Make in India” policy. As a result, the main focus of this summit will be on the following points:
                             </p>
                         </div>
@@ -315,21 +322,21 @@
             <div class="row justify-content-center my-5" style="background: url('./images/agenda-5.png'); height: 90%; background-position: center; background-repeat: no-repeat; background-size: cover;">
                 <div class="col-md-10 my-5">
                     <div class="justify-content-start w3-animate-left">
-                        <div class="heading my-3" style="text-overflow: hidden">
+                        <div class="heading my-4" style="text-overflow: hidden">
                             TO STOP BRAIN-DRAIN FROM THE COUNTRY (JOBS/HIGHER EDUCATION)
                         </div>
                     </div>
                     <div class="w3-animate-right">
-                        <p class="my-5" style="text-align: justify;"> Around one-third of the IIT graduates move out of our country for further studies and better job opportunities that results in loss of talent and this impacts the nation in terms of economic development and overall growth. Lack of funding for research, degraded quality of life and non-recognition of their work are some of the reasons responsible for brain drain. </p>
+                        <p class="my-4" style="text-align: justify;"> More than one-eighth of the IIT graduates move out of our country for further studies and better job opportunities that results in loss of talent and this impacts the nation in terms of economic development and overall growth. Lack of funding for research, degraded quality of life and non-recognition of their work are some of the reasons responsible for brain drain. </p>
                         <p style="text-align: justify;">Our summit needs to address and discuss the further mentioned problems:</p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div id = "" class="col-md-5 w3-animate-left">
+                    <div class="col-md-5 w3-animate-left">
                         <div class="my-3  bell-1" style="background: #01AAB1; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            Do highly competent workers send money home, invest, and share their knowledge? If not, what needs to be done to ensure that this occurs? </div>
+                        How  to ensure that the inflow of knowledge, experience, and funds of our highly competent individuals from abroad, into the country is encouraged and utilized to the greatest degree? </div>
                         <div class="my-3  bell-2" style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            What do we know about the fiscal and production externalities of brain drain, and isn't it time we returned the favor to the society that helped us develop our moral responsibility? </div>
+                        What are the ramifications of such migration and the exodus of gifted individuals, particularly on the educational system, the spirit of their fellow scholars/academics, and the country's development? </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
                         <div class="my-3  bell-3" style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">

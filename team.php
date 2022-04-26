@@ -47,6 +47,9 @@
                         <a href="index.php#agendas" class="gradient-box-outline">Agendas</a>
                     </li>
                     <li class="nav-item my-3">
+                        <a href="index.php#agendas" class="gradient-box-outline">Schedule</a>
+                    </li>
+                    <li class="nav-item my-3">
                         <a aria-current="page" href="#team" class="gradient-box-outline gradient-box">Team</a>
                     </li>
                     <li class="nav-item my-3">
@@ -77,7 +80,6 @@
                             <h6 class="card-title">Dr. Pushpendra P. Singh - Associate Dean (Research and Developement)</h6>
                         </div>
                     </div>
-
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">

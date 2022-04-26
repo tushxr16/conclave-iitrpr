@@ -40,19 +40,25 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarText">
                 <ul class="navbar-nav mx-3 nav-tabs" role="tablist" id="mainNav">
                     <li class="nav-item my-3">
-                        <a aria-current="page" href="#home" class="gradient-box-outline gradient-box">Home</a>
+                        <a href="index.php#home" class="gradient-box-outline gradient-box">Home</a>
+                    </li>
+					<li class="nav-item my-3">
+                        <a aria-current="page" href="#about" class="gradient-box-outline ">About&nbspUs</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a href="#prelude" class="gradient-box-outline">Prelude</a>
+                        <a href="index.php#prelude" class="gradient-box-outline">Prelude</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a href="#agendas" class="gradient-box-outline">Agendas</a>
+                        <a href="index.php#agendas" class="gradient-box-outline">Agendas</a>
+                    </li>
+                    <li class="nav-item my-3">
+                        <a href="index.php#agendas" class="gradient-box-outline">Schedule</a>
                     </li>
                     <li class="nav-item my-3">
                         <a href="team.php#team" class="gradient-box-outline">Team</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a href="#contact" class="gradient-box-outline">Contact</a>
+                        <a href="index.php#contact" class="gradient-box-outline">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -62,11 +68,11 @@
     <div class="container">
 		<div class="row">
 			<div class="col" style="text-align:center;">
-				<h1>Messages</h1>
+				<h1>Our Mentors</h1>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-md-6 height-give">
+		<div class="row" style = "margin: auto;">
+			<div class="col-md-6 ">
 					<div class="testimonial">
 						<div class="pic">
 							<img src="./images/arpit.png">
@@ -78,37 +84,14 @@
 						</p>
 					</div>
 			</div>
-			<div class="col-md-6 height-give">
+
+			<div class="col-md-6 ">
 					<div class="testimonial">
 						<div class="pic">
-							<img src="images/img-1.jpg">
+							<img src="./images/yashasav.png">
 						</div>
-						<h3 class="title">Kristina</h3>
-						<span class="post">Web Designer</span>
-						<p class="description">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit arcu sed scelerisque auctor. Vestibulum justo enim, dapibus sed magna sed, consequat accumsan nunc. Vivamus.
-						</p>
-					</div>
-			</div>
-			<div class="col-md-6 height-give">
-					<div class="testimonial">
-						<div class="pic">
-							<img src="images/img-1.jpg">
-						</div>
-						<h3 class="title">Kristina</h3>
-						<span class="post">Web Designer</span>
-						<p class="description">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit arcu sed scelerisque auctor. Vestibulum justo enim, dapibus sed magna sed, consequat accumsan nunc. Vivamus.
-						</p>
-					</div>
-			</div>
-			<div class="col-md-6 height-give">
-					<div class="testimonial">
-						<div class="pic">
-							<img src="images/img-1.jpg">
-						</div>
-						<h3 class="title">Kristina</h3>
-						<span class="post">Web Designer</span>
+						<h3 class="title">Yashasav</h3>
+						<span class="post">Web Developer</span>
 						<p class="description">
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit arcu sed scelerisque auctor. Vestibulum justo enim, dapibus sed magna sed, consequat accumsan nunc. Vivamus.
 						</p>

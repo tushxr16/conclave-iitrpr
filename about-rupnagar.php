@@ -39,25 +39,25 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarText">
                 <ul class="navbar-nav mx-3 nav-tabs" role="tablist" id="mainNav">
                     <li class="nav-item my-3">
-                        <a aria-current="page" href="#home" class="gradient-box-outline">Home</a>
+                        <a href="index.php#home" class="gradient-box-outline">Home</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a href="#about" class="gradient-box-outline">About&nbspUs</a>
+                        <a aria-current="page" href="index.php#about" class="gradient-box-outline">About&nbspUs</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a href="#prelude" class="gradient-box-outline">Prelude</a>
+                        <a href="index.php#prelude" class="gradient-box-outline">Prelude</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a href="#agendas" class="gradient-box-outline">Agendas</a>
+                        <a href="index.php#agendas" class="gradient-box-outline">Agendas</a>
                     </li>
 					<li class="nav-item my-3">
-                        <a href="#agendas" class="gradient-box-outline">Schedule</a>
+                        <a href="index.php#agendas" class="gradient-box-outline">Schedule</a>
                     </li>
                     <li class="nav-item my-3">
                         <a href="team.php#team" class="gradient-box-outline">Team</a>
                     </li>
                     <li class="nav-item my-3">
-                        <a href="#contact" class="gradient-box-outline">Contact</a>
+                        <a href="index.php#contact" class="gradient-box-outline">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -92,28 +92,28 @@
 			  </div>
 			  <div class="carousel-inner">
 				<div class="carousel-item active" data-bs-interval="3000">
-				  <img src="images/about-carousel/img-1.jpg" class="d-block w-100" alt="...">
+				  <img src="images/about-carousel/Rupnagar1.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/about-carousel/img-2.jpg" class="d-block w-100" alt="...">
+				  <img src="images/about-carousel/Rupnagar2.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/about-carousel/img-3.jpg" class="d-block w-100" alt="...">
+				  <img src="images/about-carousel/Rupnagar3.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/about-carousel/img-4.jpg" class="d-block w-100" alt="...">
+				  <img src="images/about-carousel/Rupnagar4.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/about-carousel/img-5.jpg" class="d-block w-100" alt="...">
+				  <img src="images/about-carousel/Rupnagar5.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/about-carousel/img-6.jpg" class="d-block w-100" alt="...">
+				  <img src="images/about-carousel/Rupnagar6.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/about-carousel/img-7.jpg" class="d-block w-100" alt="...">
+				  <img src="images/about-carousel/Rupnagar7.jpg" class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item" data-bs-interval="3000">
-				  <img src="images/about-carousel/img-8.jpg" class="d-block w-100" alt="...">
+				  <img src="images/about-carousel/Rupnagar1.jpg" class="d-block w-100" alt="...">
 				</div>
 			  </div>
 			  <button class="carousel-control-prev" type="button" data-bs-target="#carouselHome" data-bs-slide="prev">

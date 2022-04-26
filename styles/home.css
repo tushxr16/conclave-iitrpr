@@ -104,8 +104,8 @@ body{
 .background-img {
   background: url("../images/home-bg2.png");
   background-position: center;
-  /* height: 100vh; */
-  /* width: 100vw; */
+  height: 100vh;
+  width: 100vw;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -155,29 +155,68 @@ body{
 
 /* About Us */
 #about{
-  background: url('../images/bg-about.png');
-  background-repeat: no-repeat;
-  height: 50vh;
-  background-size:cover;
+  background: linear-gradient(to right, #d8f3ee, #d6e8f2, #d3dcf9);
+  height: fit-content;
 }
 
-/* .btn{
+
+#about-head{
+  display: flex; 
+  justify-content: center;
+  font-size: 2rem;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+#about #links{
   display: flex;
-  margin: 10rem;
-  padding: 1rem;
-  width: 20vw;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  border: 1px solid red;
-  background-color: white;
+  margin-top: 2rem;
+}
+
+#about a{
+  width: 20vw;
+  border-radius: 2rem;
+  background-color: #5b6edd;
+  margin: 1rem;
+  padding: 1rem;
+  height: fit-content;
+  text-align: center;
+  text-decoration:none;
+}
+#about a:link{
   color: white;
-  margin: 0.5rem;
-  font-size: 1rem;
-  width: 30vw !important;
-} */
+}
 
+#about a:hover{
+  color: rgba(242, 147, 31, 0.488)
+}
 
+/* Making about-us Responsive */
+@media screen and (max-width: 700px) {
+  #about #links{
+    display: flex;
+    flex-direction: column;
+  }
+
+  #about a{
+    width: 40vw;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #about #links{
+    display: flex;
+    flex-direction: column;
+  }
+
+  #about a{
+    width: 50vw;
+  }
+}
 
 /* About Us ends */
 
@@ -405,8 +444,11 @@ body{
     font-size: 0.8rem;
     padding: 2rem 2rem 2rem 5.5rem;
   }
+
   .agenda-img-resp {
     width: 90vw;
+    height:50vh;
+    object-fit: contain;
   }
 }
 @media screen and (min-width: 768px) {
@@ -430,6 +472,8 @@ body{
   }
   .agenda-img-resp {
     width: 50vw;
+    height:50vh;
+    object-fit: contain;
   }
 }
 
@@ -438,11 +482,11 @@ body{
 
 @media screen and (max-width: 768px) {
   .agendaBlock1 {
-    height: 12rem;
+    height: 10rem;
     width: 90vw;
     color: white;
     border-radius: 1rem;
-
+    margin-top: 5rem;
     padding: 2rem;
   }
   .text1{
@@ -452,40 +496,13 @@ body{
     font-family: 'Playfair Display SC';
     font-style: normal;
     font-weight: 400;
-    font-size: 96px;
-  }
-  .outer-circle11{
-    height:1rem;
-    width:1rem;
-    border:3rem solid #00A9C7;
-    border-radius:3rem;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .outer-circle12{
-    height:1rem;
-    width:1rem;
-    border:3rem solid #8F77B4;
-    border-radius:3rem;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .outer-circle13{
-    height:1rem;
-    width:1rem;
-    border:3rem solid #757284;
-    border-radius:3rem;
-    display:flex;
-    justify-content: center;
-    align-items: center;
+    font-size: 4rem;
   }
   .inner-circle1{
     height:1rem;
     width:1rem;
-    border:2rem solid #fbfeff;
-    border-radius:2rem;
+    border:3.5rem solid #fbfeff;
+    border-radius:3.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -495,8 +512,8 @@ body{
     margin-top: 2rem;
     height:1rem;
     width:1rem;
-    border:2rem solid #00A9C7;
-    border-radius:2rem;
+    border:3.5rem solid #00A9C7;
+    border-radius:3.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -506,8 +523,8 @@ body{
     margin-top: 2rem;
     height:1rem;
     width:1rem;
-    border:2rem solid #8F77B4;
-    border-radius:2rem;
+    border:3rem solid #8F77B4;
+    border-radius:3rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -517,8 +534,8 @@ body{
     margin-top: 2rem;
     height:1rem;
     width:1rem;
-    border:2rem solid #757284;
-    border-radius:2rem;
+    border:3rem solid #757284;
+    border-radius:3rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -545,9 +562,36 @@ body{
   .outer-circle{
     height: 1rem;
     width: 1rem;
-    border: 3.5rem solid white;
+    border: 6rem solid white;
     border-radius: 5rem;
     display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .outer-circle11{
+    height:1rem;
+    width:1rem;
+    border:6rem solid #00A9C7;
+    border-radius:6rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .outer-circle12{
+    height:1rem;
+    width:1rem;
+    border:6rem solid #8F77B4;
+    border-radius:6rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .outer-circle13{
+    height:1rem;
+    width:1rem;
+    border:6rem solid #757284;
+    border-radius:6rem;
+    display:flex;
     justify-content: center;
     align-items: center;
   }
@@ -566,7 +610,7 @@ body{
     font-family: 'Playfair Display SC';
     font-style: normal;
     font-weight: 400;
-    font-size: 4rem;
+    font-size: 2.5rem;
     color: black;
   }
 } 
@@ -574,7 +618,8 @@ body{
 
 @media screen and (min-width: 768px) {
   .agendaBlock1 {
-    height: 10rem;
+    height: 8rem;
+    margin-top:5rem;
     font-size: 1rem;
     width: 40vw;
     color: white;
@@ -588,7 +633,7 @@ body{
     font-family: 'Playfair Display SC';
     font-style: normal;
     font-weight: 400;
-    font-size: 96px;
+    font-size: 6rem;
   }
   .outer-circle11{
     height:1rem;
@@ -788,7 +833,6 @@ body {
   margin: 0.5rem;
   object-fit: cover;
   border-radius: 50%;
-
   border: 0.1em solid #5b68df;
 }
 
@@ -802,11 +846,15 @@ body {
 
 .card-custom-ad .card-body {
   text-align: center;
+  word-wrap:normal;
 }
 .card-custom-ad img {
   border-radius: 50%;
   border: 0.1em solid #5b68df;
+  height: fit-content;
+  width: auto;
 }
+
 .card-custom-ad {
   background-color: rgba(255, 255, 255, 0.436);
   border-radius: 0.6em;
