@@ -211,7 +211,7 @@
                 <div class="col-md-10 my-5">
                     <div class="justify-content-start w3-animate-left">
                         <div class="heading my-3" style="text-overflow: hidden">
-                            Mentorship Programs By The IIT Fraternity
+                            MENTORSHIP PROGRAMS BY THE IIT FRATERNITY
                         </div>
                     </div>
                     <div class="row justify-content-center">
