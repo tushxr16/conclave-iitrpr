@@ -14,7 +14,7 @@
     <meta property="og:url" content="https://leadership-summit22.herokuapp.com/" />
     <meta property="og:image" content="images/LOGO.jpeg" />
     <title>Leadership Summit 2022</title>
-    <link rel="icon" href="images/LOGO.jpg">
+    <link rel="icon" href="images/logo.png">
 	<link rel="stylesheet" href="styles/home.css" />
     <link rel="stylesheet" href="styles/schedule.css" />
     <link rel="stylesheet" href="styles/animation.css" />
