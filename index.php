@@ -167,21 +167,39 @@
                     <div class="sub-heading">
                         We envision discussing the following aspects
                     </div>
-                    <div class="my-3 agendaBlock1 square-45-1"
+                    <div class="agendaBlock1"
                         style="background: #00A8C6; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                     
+                        <div class="outer-circle11">
+                            <div class="inner-circle1">
+                                <div class="inner-circle21">
+                                    <p class="number1">01</p>
+                                </div>
+                            </div>
+                        </div>
                         <p class="text1"> Measures can be taken to encourage more and more students to be involved in
                             cultural activities?</p>
                     </div>
-                    <div class="my-3 agendaBlock1 square-45-2"
+                    <div class="agendaBlock1"
                         style="background: #8F77B4; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                        
+                        <div class="outer-circle12">
+                            <div class="inner-circle1">
+                                <div class="inner-circle22">
+                                    <p class="number1">02</p>
+                                </div>
+                            </div>
+                        </div>
                         <p class="text1"> Components of our current organizations (societies and clubs) need to change
                             considering this online to offline transition again?</p>
                     </div>
-                    <div class="my-3 agendaBlock1 square-45-3"
+                    <div class="agendaBlock1"
                         style="background: #757284; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                        
+                        <div class="outer-circle13">
+                            <div class="inner-circle1">
+                                <div class="inner-circle23">
+                                    <p class="number1">03</p>
+                                </div>
+                            </div>
+                        </div>
                         <p class="text1">In what ways can we restore the gap between specific batches owing to the
                             pandemic?</p>
                     </div>
@@ -216,7 +234,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
-                        <div id="01" class="my-3 agendaBlock mentor-square-45-1"
+                        <div id="01" class="my-3 agendaBlock square-45-1"
                             style="background: #01AAB1; color: white; display: flex; align-items: center; filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px); margin-right: 2rem;">
                             How can the institutes adopt a few nearby colleges and universities, and assist them with
                             the guidance about the approaches and conducts in the industry, as well as creation of a
@@ -225,8 +243,8 @@
                         </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
-                        <div id="02" class="my-3 agendaBlock mentor-square-45-2 midMentor"
-                            style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                        <div id="02" class="my-3 agendaBlock square-45-2"
+                            style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px); margin-left: 2rem;">
                             How to increase engagement and begin a real turnaround by starting collaborative
                             interdisciplinary projects, conducting conjoint club sessions, sharing access of state of
                             the art labs and technologies with other colleges and universities?
@@ -236,7 +254,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-bottom">
-                        <div id="03" class="my-3 agendaBlock mentor-square-45-3"
+                        <div id="03" class="my-3 agendaBlock square-45-3"
                             style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How to Increase engagement and begin a real turnaround by starting collaborative
                             interdisciplinary projects with other colleges and universities?
@@ -257,16 +275,10 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
-<<<<<<< HEAD
-
-                        <p style="text-align: justify;" >
-                            B. Tech. students have a lot to learn, from their academics to general career advice – and a right mentor can indeed make or break their student life. A research scholar can very well guide their junior B. Tech. students, being more experienced and used to the college system.
-=======
                         <p style="text-align: justify;">
                             B. Tech. students have a lot to learn, from their academics to general career advice – and a
                             right mentor can indeed make or break their student life. A research scholar can very well
                             guide their junior B. Tech. students, being more experienced and used to the college system.
->>>>>>> dea983681706efbe89abca29d372c41950a38672
                         </p>
                     </div>
                     <div class="col-md-5">
@@ -290,41 +302,6 @@
                 <div class="row justify-content-center">
                     <div class="col-md-5">
 
-<<<<<<< HEAD
-                        <div class="my-3 agenda3-block" style="background: #585665; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            <div class="agenda3-numbers" style = "background-color: #5652A3;">
-                                01
-                            </div>
-                            <div>
-                                In what further ways can this bond be strengthened that both learn something from each other?
-                            </div>
-                        </div>
-                        <div class="my-3 agenda3-block" style="background: #585665; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            <div class="agenda3-numbers" style = "background-color: #10B0D0;">
-                                02
-                            </div>
-                            <div>
-                                Will creating a mandatory interdisciplinary project after the second year so as to facilitate more communication and interaction between the two groups help achieve our goals?
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-5">
-                        <div class="my-3 agenda3-block" style="background: #585665; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            <div class="agenda3-numbers" style= "background-color:#03CD80">
-                                03
-                            </div>
-                            <div>
-                                What are the improvements and suggestions in the current B-Tech. Project system?
-                            </div>
-                        </div>
-                        <div class="my-3 agenda3-block" style="background: #585665; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            <div class="agenda3-numbers" style= "background-color:#EE7531">
-                                04
-                            </div>
-                            <div class="agenda3-block-content">
-                                How will the mentorship be done by the already busy and occupied research scholars?
-                            </div>
-=======
                         <div class="my-3 agendaBlock"
                             style="background: #7ABBF8; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
 
@@ -345,7 +322,6 @@
                         <div class="my-3 agendaBlock"
                             style="background: #4AC8AC; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How will the mentorship be done by the already busy and occupied research scholars?
->>>>>>> dea983681706efbe89abca29d372c41950a38672
                         </div>
                     </div>
                 </div>

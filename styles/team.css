@@ -1,0 +1,153 @@
+.our-team {
+    text-align: center;
+    margin:10px -15px;
+    padding: 0;
+}
+
+.our-team .pic {
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    height: 160px;
+    width: 160px;
+    margin: auto;
+    transition: all 0.5s ease 0s;
+    box-shadow: 0px 8px 12px -13px #555;
+}
+
+.our-team .detail {
+    overflow: hidden;
+    position: relative;
+    width: 95%;
+    margin: auto;
+}
+
+.our-team .pic:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateY(-100%);
+    z-index: 5;
+    background: rgba(40, 40, 40, 0.6);
+    transition: all 0.5s ease 0s;
+}
+
+.our-team:hover .pic:after {
+    transform: translateY(0px);
+}
+
+.our-team:hover .pic {
+    box-shadow: 0px 8px 12px -10px #555;
+}
+
+.our-team:hover img {
+    width: 110%;
+    filter: blur(2px);
+    margin-left: -5%;
+    transform: translateY(-5%);
+}
+
+.our-team:hover .title {
+    color: #F44336;
+    transform: scale(1.06);
+}
+
+.our-team img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    transition: all 0.5s ease 0s;
+}
+
+.our-team .title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #808080;
+    position: relative;
+    font-family: 'Jost';
+    font-weight: 300;
+    margin: auto;
+    margin-top: 20px;
+    transition: all 0.3s ease 0s;
+}
+
+.our-team .post {
+    display: block;
+    font-size: 12px;
+    font-family: 'Ubuntu';
+    color: #333;
+    font-weight: 600;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+
+.our-team .contact i {
+    font-size: 18px;
+    margin: 15px 10px;
+    color: #222;
+    transition: all 0.3s ease 0s;
+}
+
+.our-team .contact .fa-whatsapp:hover {
+    color: #24CD63;
+}
+
+.our-team .contact .fa-facebook-square:hover {
+    color: #4064AD;
+}
+
+.our-team .contact .fa-envelope:hover {
+    color: #D74537;
+}
+
+.our-team .contact .fa-phone:hover {
+    color: #01C853;
+}
+
+.our-team .hidden-contact {
+    margin-top: 26%;
+    margin-left: 4%;
+    z-index: 6;
+    position: absolute;
+    top: 0;
+    color: white;
+    opacity: 0;
+    transition: all 0.3s ease 0s;
+    font-family: 'Montserrat';
+    font-size: 11.5px;
+    font-weight: 600;
+}
+
+.our-team .hidden-contact i {
+    margin: 10px;
+}
+
+.our-team:hover .hidden-contact {
+    opacity: 1;
+}
+
+@media (max-width: 660px) {
+    .our-team .pic {
+        height: 100px;
+        width: 100px;
+        left: 5px;
+    }
+    .our-team .hidden-contact {
+        font-size: 7px;
+        margin-top: -90%;
+        line-height: 6px;
+    }
+    .our-team .title {
+        font-size: 16px;
+    }
+    .our-team .post {
+        font-size: 10px;
+    }
+    .our-team .contact i {
+        font-size: 14px;
+        margin: 10px 5px;
+    }
+}
