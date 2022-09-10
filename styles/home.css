@@ -244,7 +244,22 @@ body{
 	width:4rem;
 	height:4rem;
 	border-radius:10px;
-	background:#178488;
+	background:#00A8C6;
+  box-shadow: 5px 5px #447596;
+	display:block;
+	transform: rotate(45deg);
+}
+.mentor-square-45-1::before 
+{
+	content:'';
+	position:absolute;
+	top:-10px;
+	left:-10px;
+	width:4rem;
+	height:4rem;
+	border-radius:10px;
+	background:#01AAB1;
+  box-shadow: 5px 5px #016265;
 	display:block;
 	transform: rotate(45deg);
 }
@@ -258,7 +273,24 @@ body{
 	width:4rem;
 	height:4rem;
 	border-radius:10px;
-	background:#10b0d0;
+	background:#8F77B4;
+  box-shadow: 5px 5px #423854;
+
+	display:block;
+	transform: rotate(45deg);
+}
+.mentor-square-45-2::before
+{
+	content:'';
+	position:absolute;
+	top:-10px;
+	left:-10px;
+	width:4rem;
+	height:4rem;
+	border-radius:10px;
+	background:#2184A3;
+  box-shadow: 5px 5px #16586c;
+
 	display:block;
 	transform: rotate(45deg);
 }
@@ -272,12 +304,37 @@ body{
 	width:4rem;
 	height:4rem;
 	border-radius:10px;
-	background:#447596;
+	background:#757284;
+  box-shadow: 5px 5px #4f4e4e;
+
+	display:block;
+	transform: rotate(45deg);
+}
+.mentor-square-45-3::before
+{
+	content:'';
+	position:absolute;
+	top:-10px;
+	left:-10px;
+	width:4rem;
+	height:4rem;
+	border-radius:10px;
+	background:#2E526A;
+  box-shadow: 5px 5px #223c4d;
+
 	display:block;
 	transform: rotate(45deg);
 }
 
 .square-45-1::after
+{
+	content:'01';
+	font-size:36px;
+	position:absolute;
+  top:-0.3rem;
+	left:0.3rem;
+}
+.mentor-square-45-1::after
 {
 	content:'01';
 	font-size:36px;
@@ -294,8 +351,24 @@ body{
   top:-0.3rem;
 	left:0rem;
 }
+.mentor-square-45-2::after
+{
+	content:'02';
+	font-size:36px;
+	position:absolute;
+  top:-0.3rem;
+	left:0rem;
+}
 
 .square-45-3::after
+{
+	content:'03';
+	font-size:36px;
+	position:absolute;
+	top:-0.3rem;
+	left:0rem;
+}
+.mentor-square-45-3::after
 {
 	content:'03';
 	font-size:36px;
@@ -327,6 +400,9 @@ body{
 }
 
 @media screen and (min-width: 1024px) {
+  .midMentor{
+    margin-left: 2rem;
+  }
 	.bell-1, .bell-2
 	{
 		margin:7rem !important;
@@ -432,7 +508,7 @@ body{
     width: 90vw;
     color: white;
     border-radius: 1rem;
-	  font-size:0.8rem;
+	  font-size:1rem;
     padding: 2rem 2rem 2rem 2rem;
   }
 
@@ -442,7 +518,8 @@ body{
     color: white;
     border-radius: 1rem;
     font-size: 0.8rem;
-    padding: 2rem 2rem 2rem 5.5rem;
+    /* padding: 2rem 2rem 2rem 5.5rem; */
+    padding: 3rem;
   }
 
   .agenda-img-resp {
@@ -465,6 +542,7 @@ body{
   .agendaBlock {
     height: 10rem;
     font-size: 1rem;
+    padding-left: 2rem;
     width: 40vw;
     color: white;
     border-radius: 1rem;
@@ -480,14 +558,24 @@ body{
 /* Agenda 1 */
 
 
+
 @media screen and (max-width: 768px) {
   .agendaBlock1 {
-    height: 10rem;
+    height: 12rem;
     width: 90vw;
     color: white;
     border-radius: 1rem;
-    margin-top: 5rem;
-    padding: 2rem;
+    padding: 2rem 2rem 2rem 5.5rem;
+    padding-left: 2rem;
+    font-size: medium;
+    /* height: 12rem;
+    width: 90vw;
+    color: white;
+    border-radius: 1rem;
+    font-size: 0.8rem;
+    padding: 2rem 2rem 2rem 5.5rem;*/
+
+    /* margin-bottom: 2rem; */
   }
   .text1{
     margin-left: 1.5rem;
@@ -503,9 +591,11 @@ body{
     width:1rem;
     border:3.5rem solid #fbfeff;
     border-radius:3.5rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    position: relative;
+    left: 2rem;
     
   }
   .inner-circle21{

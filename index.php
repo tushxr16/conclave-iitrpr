@@ -167,39 +167,21 @@
                     <div class="sub-heading">
                         We envision discussing the following aspects
                     </div>
-                    <div class="agendaBlock1"
+                    <div class="my-3 agendaBlock1 square-45-1"
                         style="background: #00A8C6; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                        <div class="outer-circle11">
-                            <div class="inner-circle1">
-                                <div class="inner-circle21">
-                                    <p class="number1">01</p>
-                                </div>
-                            </div>
-                        </div>
+                     
                         <p class="text1"> Measures can be taken to encourage more and more students to be involved in
                             cultural activities?</p>
                     </div>
-                    <div class="agendaBlock1"
+                    <div class="my-3 agendaBlock1 square-45-2"
                         style="background: #8F77B4; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                        <div class="outer-circle12">
-                            <div class="inner-circle1">
-                                <div class="inner-circle22">
-                                    <p class="number1">02</p>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <p class="text1"> Components of our current organizations (societies and clubs) need to change
                             considering this online to offline transition again?</p>
                     </div>
-                    <div class="agendaBlock1"
+                    <div class="my-3 agendaBlock1 square-45-3"
                         style="background: #757284; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); backdrop-filter: blur(4px);">
-                        <div class="outer-circle13">
-                            <div class="inner-circle1">
-                                <div class="inner-circle23">
-                                    <p class="number1">03</p>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <p class="text1">In what ways can we restore the gap between specific batches owing to the
                             pandemic?</p>
                     </div>
@@ -234,7 +216,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-left">
-                        <div id="01" class="my-3 agendaBlock square-45-1"
+                        <div id="01" class="my-3 agendaBlock mentor-square-45-1"
                             style="background: #01AAB1; color: white; display: flex; align-items: center; filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px); margin-right: 2rem;">
                             How can the institutes adopt a few nearby colleges and universities, and assist them with
                             the guidance about the approaches and conducts in the industry, as well as creation of a
@@ -243,8 +225,8 @@
                         </div>
                     </div>
                     <div class="col-md-5 w3-animate-right">
-                        <div id="02" class="my-3 agendaBlock square-45-2"
-                            style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px); margin-left: 2rem;">
+                        <div id="02" class="my-3 agendaBlock mentor-square-45-2 midMentor"
+                            style="background: #2184A3; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How to increase engagement and begin a real turnaround by starting collaborative
                             interdisciplinary projects, conducting conjoint club sessions, sharing access of state of
                             the art labs and technologies with other colleges and universities?
@@ -254,7 +236,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5 w3-animate-bottom">
-                        <div id="03" class="my-3 agendaBlock square-45-3"
+                        <div id="03" class="my-3 agendaBlock mentor-square-45-3"
                             style="background: #2E526A; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
                             How to Increase engagement and begin a real turnaround by starting collaborative
                             interdisciplinary projects with other colleges and universities?
