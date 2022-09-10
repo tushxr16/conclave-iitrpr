@@ -221,6 +221,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
+
                         <p style="text-align: justify;" >
                             B. Tech. students have a lot to learn, from their academics to general career advice – and a right mentor can indeed make or break their student life. A research scholar can very well guide their junior B. Tech. students, being more experienced and used to the college system.
                         </p>
@@ -243,20 +244,39 @@
                 <div class="row justify-content-center">
                     <div class="col-md-5">
 
-                        <div class="my-3 agendaBlock" style="background: #7ABBF8; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                        
-                            In what further ways can this bond be strengthened that both learn something from each other?
+                        <div class="my-3 agenda3-block" style="background: #585665; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                            <div class="agenda3-numbers" style = "background-color: #5652A3;">
+                                01
+                            </div>
+                            <div>
+                                In what further ways can this bond be strengthened that both learn something from each other?
+                            </div>
                         </div>
-                        <div class="my-3 agendaBlock" style="background: #5C5C5D; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            Will creating a mandatory interdisciplinary project after the second year so as to facilitate more communication and interaction between the two groups help achieve our goals?
+                        <div class="my-3 agenda3-block" style="background: #585665; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                            <div class="agenda3-numbers" style = "background-color: #10B0D0;">
+                                02
+                            </div>
+                            <div>
+                                Will creating a mandatory interdisciplinary project after the second year so as to facilitate more communication and interaction between the two groups help achieve our goals?
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-5">
-                        <div class="my-3 agendaBlock" style="background: #6B83AF; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            What are the improvements and suggestions in the current B-Tech. Project system?
+                        <div class="my-3 agenda3-block" style="background: #585665; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                            <div class="agenda3-numbers" style= "background-color:#03CD80">
+                                03
+                            </div>
+                            <div>
+                                What are the improvements and suggestions in the current B-Tech. Project system?
+                            </div>
                         </div>
-                        <div class="my-3 agendaBlock" style="background: #4AC8AC; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
-                            How will the mentorship be done by the already busy and occupied research scholars?
+                        <div class="my-3 agenda3-block" style="background: #585665; color: white; display: flex; align-items: center;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));backdrop-filter: blur(4px);">
+                            <div class="agenda3-numbers" style= "background-color:#EE7531">
+                                04
+                            </div>
+                            <div class="agenda3-block-content">
+                                How will the mentorship be done by the already busy and occupied research scholars?
+                            </div>
                         </div>
                     </div>
                 </div>

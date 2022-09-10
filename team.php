@@ -99,8 +99,10 @@
             <br>
         </div>
 
+
+        <!-- Torch Bearers -->
         <div class="container" id="c-content" >
-            <div class="team-heading">Core Team</div>
+            <div class="team-heading">Torch Bearers</div>
             <div class="row" style="justify-content: center;">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
                     <div class="card card-body flex-fill card-custom-ad w-75">
@@ -145,6 +147,37 @@
 
                 </div>
     
+
+            </div>
+            <br>
+            <br>
+            <br>
+        </div>
+
+        <!-- Core Team -->
+        <div class="container" id="c-content" >
+            <div class="team-heading">Core Team</div>
+            <div class="row" style="justify-content: center;">
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad w-75">
+
+                        <img src="./images/diksha-mittal.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Vedant Sati</h6>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-6 center-responsive d-flex" style="margin-top:15px;">
+                    <div class="card card-body flex-fill card-custom-ad">
+
+                        <img src="./images/prachi.png" class="card-img-top">
+                        <div class="card-body">
+                            <h6 class="card-title">Prachi</h6>
+                        </div>
+                    </div>
+
+                </div>
 
             </div>
             <br>
@@ -550,8 +583,8 @@
                         <div class="col-lg-4 col-md-4">
                             <h5 class="text-dark mb-3"><i class="fa fa-phone"></i> Call</h5>
                             <ul class="list-unstyled text-muted">
-                                <li> Diksha +91-9416-914467</li>
                                 <li> Prachi +91-8527-997951 </li>
+                                <li> Himanshu +91-8109-669687</li>
                             </ul>
                         </div>
 
