@@ -29,7 +29,6 @@
 
 </head>
 
-
 <body>
 
   <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top" id="navbar-example2">
@@ -66,7 +65,6 @@
         </div>
     </nav>
 
-
 	<header class="cd-main-header text-center flex flex-column flex-center">
     <h1>13th May 2022</h1>
   </header>
@@ -80,7 +78,7 @@
 
         <div class="cd-timeline__content text-component">
           <h2 align="center">Breakfast</h2>
-            <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">8:00 - 9:30</span>
+            <span class="cd-timeline__date " style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">8:00 - 9:30</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
